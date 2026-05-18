@@ -1,0 +1,12 @@
+{
+    "body_part_labels": {
+        "0": "Head",
+        "1": "Foot",
+        "2": "Torso",
+        "3": "Udder"
+    },
+    "disease_labels": {
+        "0": "Normal",
+        "1": "Diseased"
+    }
+}

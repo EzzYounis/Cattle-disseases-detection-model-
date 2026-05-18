@@ -1,0 +1,922 @@
+image_path,body_part,class_name,file_name,extension,disease_label,body_part_label,split
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_20230319_145122-00.jpg,Head,Normal Head,IMG_20230319_145122-00.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\P1010971WM.jpg,Head,Diseased Head,P1010971WM.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\P1010957 (1)WM-1.jpg,Head,Diseased Head,P1010957 (1)WM-1.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\foot-and-mougth-5-_jpg.rf.804dc762d8212af1af315204dca3e330.jpg,Head,Diseased Head,foot-and-mougth-5-_jpg.rf.804dc762d8212af1af315204dca3e330.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0270-02.jpg,Head,Normal Head,IMG_0270-02.jpg,.jpg,0,0,train
+"c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\2 day vesicle, steer, gum.jpg",Head,Diseased Head,"2 day vesicle, steer, gum.jpg",.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0161-02.jpg,Head,Normal Head,IMG_0161-02.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased dental pad 27.jpg,Head,Diseased Head,Diseased dental pad 27.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924145344.jpg,Head,Normal Head,IMG20230924145344.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Open mouth with teeth 7.jpg,Head,Normal Head,Open mouth with teeth 7.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Lumpy_Skin_2_png.rf.4eb606d053400087a1cb182b33d07d01.jpg,Head,Diseased Head,Lumpy_Skin_2_png.rf.4eb606d053400087a1cb182b33d07d01.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-45-_jpg.rf.1e3f54c6fd1e3f59147dca25a1f47038.jpg,Head,Diseased Head,-45-_jpg.rf.1e3f54c6fd1e3f59147dca25a1f47038.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230727071333.jpg,Head,Normal Head,IMG20230727071333.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_20230319_072740-02.jpg,Head,Normal Head,IMG_20230319_072740-02.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_8724-00.jpg,Head,Normal Head,IMG_8724-00.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\mouth_5-7_daysWM.jpg,Head,Diseased Head,mouth_5-7_daysWM.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924144045_BURST000_COVER.jpg,Head,Normal Head,IMG20230924144045_BURST000_COVER.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\cm3-4-1WM-1.jpg,Head,Diseased Head,cm3-4-1WM-1.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\6778892962_a3aea04c4f_bWM-1.jpg,Head,Diseased Head,6778892962_a3aea04c4f_bWM-1.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\BrownSwisscattle103.jpg,Head,Normal Head,BrownSwisscattle103.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Lumpy_Skin_157_png.rf.36484ce6e38c7a777d40276ff4843315.jpg,Head,Diseased Head,Lumpy_Skin_157_png.rf.36484ce6e38c7a777d40276ff4843315.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased tongue 7.jpg,Head,Diseased Head,Diseased tongue 7.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\mouth_4-5_days_2_JMOKWM.jpg,Head,Diseased Head,mouth_4-5_days_2_JMOKWM.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD_86_jpg.rf.cacbb722316f262d5452057e25ef6c66.jpg,Head,Diseased Head,FMD_86_jpg.rf.cacbb722316f262d5452057e25ef6c66.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Foot-and-mouth-disease-in-cattle_fmd_000057_jpg.rf.1464fa853af89bc8340f9ae96dad4c9c.jpg,Head,Diseased Head,Foot-and-mouth-disease-in-cattle_fmd_000057_jpg.rf.1464fa853af89bc8340f9ae96dad4c9c.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924151943.jpg,Head,Normal Head,IMG20230924151943.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\mouth_8-9_daysWM.jpg,Head,Diseased Head,mouth_8-9_daysWM.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230807185937.jpg,Head,Normal Head,IMG20230807185937.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD_009_jpg.rf.3b48b20684168071aa3c173adab482a7.jpg,Head,Diseased Head,FMD_009_jpg.rf.3b48b20684168071aa3c173adab482a7.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\tongue_4-5days.jpg,Head,Diseased Head,tongue_4-5days.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\BB01022024175336_front-png_jpg.rf.e7fd0a8ca8d7dce0beab85120d3b5708.jpg,Head,Normal Head,BB01022024175336_front-png_jpg.rf.e7fd0a8ca8d7dce0beab85120d3b5708.jpg,.jpg,0,0,train
+"c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Cows head, open mouth 7.jpg",Head,Normal Head,"Cows head, open mouth 7.jpg",.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased tongue 5.jpg,Head,Diseased Head,Diseased tongue 5.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\cm 14-1sWM-1.jpg,Head,Diseased Head,cm 14-1sWM-1.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\BrownSwisscattle135_c.jpg,Head,Normal Head,BrownSwisscattle135_c.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\BB29012024090955_front_png_jpg.rf.3b1aeaaacdfefa9266eea89020d9d5ff.jpg,Head,Normal Head,BB29012024090955_front_png_jpg.rf.3b1aeaaacdfefa9266eea89020d9d5ff.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\sapi_i_4.jpg,Head,Normal Head,sapi_i_4.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased dental pad 13.jpg,Head,Diseased Head,Diseased dental pad 13.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Lumpy_Skin_239.png,Head,Diseased Head,Lumpy_Skin_239.png,.png,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased muzzle 6.jpg,Head,Diseased Head,Diseased muzzle 6.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-49-_jpg.rf.c05cc80174452c78a54a0d759483f1a0.jpg,Head,Diseased Head,-49-_jpg.rf.c05cc80174452c78a54a0d759483f1a0.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230723074010.jpg,Head,Normal Head,IMG20230723074010.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0982-01.jpg,Head,Normal Head,IMG_0982-01.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230723065140.jpg,Head,Normal Head,IMG20230723065140.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-27-_jpg.rf.024f1e3d9b8c5e63c8c17f536948c51e.jpg,Head,Diseased Head,-27-_jpg.rf.024f1e3d9b8c5e63c8c17f536948c51e.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230727071436.jpg,Head,Normal Head,IMG20230727071436.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230826165301.jpg,Head,Normal Head,IMG20230826165301.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924142730.jpg,Head,Normal Head,IMG20230924142730.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230727071340_01.jpg,Head,Normal Head,IMG20230727071340_01.jpg,.jpg,0,0,train
+"c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Cows head, open mouth 14.jpg",Head,Normal Head,"Cows head, open mouth 14.jpg",.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased lower lip mucosa 12.jpg,Head,Diseased Head,Diseased lower lip mucosa 12.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230723074812.jpg,Head,Normal Head,IMG20230723074812.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\foot-and-mougth-15-_jpg.rf.5a530533f7e2c765666c65742651de5c.jpg,Head,Diseased Head,foot-and-mougth-15-_jpg.rf.5a530533f7e2c765666c65742651de5c.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_20230319_070905-01.jpg,Head,Normal Head,IMG_20230319_070905-01.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0177-01.jpg,Head,Normal Head,IMG_0177-01.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\foot-and-mougth-9-_jpg.rf.da3a18a3c3257da35e788dc0b7fed46e.jpg,Head,Diseased Head,foot-and-mougth-9-_jpg.rf.da3a18a3c3257da35e788dc0b7fed46e.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Lumpy_Skin_188.png,Head,Diseased Head,Lumpy_Skin_188.png,.png,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD-clinical-examination_001438_jpg.rf.4f71b57a663b53220b160cb8da031d68.jpg,Head,Diseased Head,FMD-clinical-examination_001438_jpg.rf.4f71b57a663b53220b160cb8da031d68.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230723065326.jpg,Head,Normal Head,IMG20230723065326.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-14-_jpg.rf.a010c87f02f9edb905ec50d2f10e96f6.jpg,Head,Diseased Head,-14-_jpg.rf.a010c87f02f9edb905ec50d2f10e96f6.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Underside of tongue 8.jpg,Head,Normal Head,Underside of tongue 8.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230826165255.jpg,Head,Normal Head,IMG20230826165255.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Non-diseased-muzzle-4_jpeg.rf.7cdad39a105c449c4c12c2f71cad1043.jpg,Head,Normal Head,Non-diseased-muzzle-4_jpeg.rf.7cdad39a105c449c4c12c2f71cad1043.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\RedDanecattle74.jpg,Head,Normal Head,RedDanecattle74.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\sapi_s_8.jpg,Head,Normal Head,sapi_s_8.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\cm5-7-1WM-1.jpg,Head,Diseased Head,cm5-7-1WM-1.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924150420.jpg,Head,Normal Head,IMG20230924150420.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_1001-01.jpg,Head,Normal Head,IMG_1001-01.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\vesiclelesion.jpg,Head,Diseased Head,vesiclelesion.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\sapi_y_2.jpg,Head,Normal Head,sapi_y_2.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Ayrshirecattle79.jpg,Head,Normal Head,Ayrshirecattle79.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924150442.jpg,Head,Normal Head,IMG20230924150442.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\mouth_4-5_days_9WM.jpg,Head,Diseased Head,mouth_4-5_days_9WM.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0123-01.jpg,Head,Normal Head,IMG_0123-01.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924143404.jpg,Head,Normal Head,IMG20230924143404.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\sapi_h_21.jpg,Head,Normal Head,sapi_h_21.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\img1133.jpg,Head,Diseased Head,img1133.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\mouth_2-3_days_2JMOKWM.jpg,Head,Diseased Head,mouth_2-3_days_2JMOKWM.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_8649-02.jpg,Head,Normal Head,IMG_8649-02.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\sapi_m_08.jpg,Head,Normal Head,sapi_m_08.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924144627.jpg,Head,Normal Head,IMG20230924144627.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\sapi_i_8.jpg,Head,Normal Head,sapi_i_8.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased tongue 2.jpg,Head,Diseased Head,Diseased tongue 2.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924145428.jpg,Head,Normal Head,IMG20230924145428.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230826171337.jpg,Head,Normal Head,IMG20230826171337.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Lumpy_Skin_242.png,Head,Diseased Head,Lumpy_Skin_242.png,.png,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0700-01.jpg,Head,Normal Head,IMG_0700-01.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\cm2-4-1WM-1.jpg,Head,Diseased Head,cm2-4-1WM-1.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\450px-Foot_and_mouth_disease_in_mouth_jpg.rf.275adc3f09b5fb4d750b7022518c26c6.jpg,Head,Diseased Head,450px-Foot_and_mouth_disease_in_mouth_jpg.rf.275adc3f09b5fb4d750b7022518c26c6.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\sapi_m_02.jpg,Head,Normal Head,sapi_m_02.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Non-diseased-muzzle-7_jpg.rf.c65f801d885859e9bd3017f710409313.jpg,Head,Normal Head,Non-diseased-muzzle-7_jpg.rf.c65f801d885859e9bd3017f710409313.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924150537.jpg,Head,Normal Head,IMG20230924150537.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0127-00.jpg,Head,Normal Head,IMG_0127-00.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased-lower-lip-mucosa-1_jpg.rf.656c2f2ace58622ad3cdf334de2cbf7d.jpg,Head,Diseased Head,Diseased-lower-lip-mucosa-1_jpg.rf.656c2f2ace58622ad3cdf334de2cbf7d.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD-cattle-1-Copy-10-Copy_jpg.rf.fdb2e3533ebbfb73000df963e6fcee41.jpg,Head,Diseased Head,FMD-cattle-1-Copy-10-Copy_jpg.rf.fdb2e3533ebbfb73000df963e6fcee41.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\small2dcow-1WM-1.jpg,Head,Diseased Head,small2dcow-1WM-1.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230727070534-00.jpg,Head,Normal Head,IMG20230727070534-00.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\imgs003.jpg,Head,Normal Head,imgs003.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Capture1_png.rf.70fbf14ae8ff044f5fada8ec078ed6df.jpg,Head,Diseased Head,Capture1_png.rf.70fbf14ae8ff044f5fada8ec078ed6df.jpg,.jpg,1,0,train
+"c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\2 day vesicle, steer, foot, 2.jpg",Head,Diseased Head,"2 day vesicle, steer, foot, 2.jpg",.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\BrownSwisscattle29.jpg,Head,Normal Head,BrownSwisscattle29.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Non-diseased muzzle 31 with tongue.jpg,Head,Normal Head,Non-diseased muzzle 31 with tongue.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\LS-13_jpg.rf.fda3ea3d69ad75e5775d70bb48865075.jpg,Head,Diseased Head,LS-13_jpg.rf.fda3ea3d69ad75e5775d70bb48865075.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230723065042.jpg,Head,Normal Head,IMG20230723065042.jpg,.jpg,0,0,train
+"c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Calf, underside of tongue 3.jpg",Head,Normal Head,"Calf, underside of tongue 3.jpg",.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\7-Copy-10-_jpg.rf.4a2b27f628743947a28270ba0be2c9ba.jpg,Head,Diseased Head,7-Copy-10-_jpg.rf.4a2b27f628743947a28270ba0be2c9ba.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD_11_jpg.rf.746c86a20217d92273f1af2562d29b9e.jpg,Head,Diseased Head,FMD_11_jpg.rf.746c86a20217d92273f1af2562d29b9e.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924142844.jpg,Head,Normal Head,IMG20230924142844.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\9-foot-mouth-disease-fmd-lesions-palate_jpg.rf.ee6267def11c42df80f0216650087bec.jpg,Head,Diseased Head,9-foot-mouth-disease-fmd-lesions-palate_jpg.rf.ee6267def11c42df80f0216650087bec.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_9823-02.jpg,Head,Normal Head,IMG_9823-02.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\LSD-242-_png_jpg.rf.33ba8c7f64d1b9b360ebb4dcdd21692e.jpg,Head,Diseased Head,LSD-242-_png_jpg.rf.33ba8c7f64d1b9b360ebb4dcdd21692e.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\P1010992WM-1.jpg,Head,Diseased Head,P1010992WM-1.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\BrownSwisscattle58.jpg,Head,Normal Head,BrownSwisscattle58.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-15-_jpg.rf.7bd97d4dd140f2fd0149627463ee132b.jpg,Head,Diseased Head,-15-_jpg.rf.7bd97d4dd140f2fd0149627463ee132b.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\sapi_f_7.jpg,Head,Normal Head,sapi_f_7.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230727070500_01-01.jpg,Head,Normal Head,IMG20230727070500_01-01.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased lower lip mucosa 8.jpg,Head,Diseased Head,Diseased lower lip mucosa 8.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\foot-and-mougth-24-_png_jpg.rf.38f9a12313ced7e652c24daf44646fcb.jpg,Head,Diseased Head,foot-and-mougth-24-_png_jpg.rf.38f9a12313ced7e652c24daf44646fcb.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\imgs008.jpg,Head,Normal Head,imgs008.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Lumpy_Skin_102.png,Head,Diseased Head,Lumpy_Skin_102.png,.png,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased muzzle and tongue 1.jpg,Head,Diseased Head,Diseased muzzle and tongue 1.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0979-00.jpg,Head,Normal Head,IMG_0979-00.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Non-diseased-muzzle-9-with-tongue_jpg.rf.ad79c6654742b7899a01770ef226d77f.jpg,Head,Normal Head,Non-diseased-muzzle-9-with-tongue_jpg.rf.ad79c6654742b7899a01770ef226d77f.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0296-02.jpg,Head,Normal Head,IMG_0296-02.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\LSD-106-_png_jpg.rf.340b4a68b38f3a4ff7939f91220474d6.jpg,Head,Diseased Head,LSD-106-_png_jpg.rf.340b4a68b38f3a4ff7939f91220474d6.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased tongue 16.jpg,Head,Diseased Head,Diseased tongue 16.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0630-01.jpg,Head,Normal Head,IMG_0630-01.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230319164153-00.jpg,Head,Normal Head,IMG20230319164153-00.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230528075338.jpg,Head,Normal Head,IMG20230528075338.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased tongue 17.jpg,Head,Diseased Head,Diseased tongue 17.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased muzzle and tongue 2.jpg,Head,Diseased Head,Diseased muzzle and tongue 2.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924145508.jpg,Head,Normal Head,IMG20230924145508.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0466-02.jpg,Head,Normal Head,IMG_0466-02.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230528075045.jpg,Head,Normal Head,IMG20230528075045.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_20230319_072855-00.jpg,Head,Normal Head,IMG_20230319_072855-00.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_8704-02.jpg,Head,Normal Head,IMG_8704-02.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0152-02.jpg,Head,Normal Head,IMG_0152-02.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\HolsteinFriesiancattle114.jpg,Head,Normal Head,HolsteinFriesiancattle114.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_20230319_074450-02.jpg,Head,Normal Head,IMG_20230319_074450-02.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Lumpy_Skin_238.png,Head,Diseased Head,Lumpy_Skin_238.png,.png,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Dorsal side of tongue 5.jpg,Head,Normal Head,Dorsal side of tongue 5.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\BrownSwisscattle47.jpg,Head,Normal Head,BrownSwisscattle47.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924143119.jpg,Head,Normal Head,IMG20230924143119.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230723065339.jpg,Head,Normal Head,IMG20230723065339.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0054-00.jpg,Head,Normal Head,IMG_0054-00.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0292-02.jpg,Head,Normal Head,IMG_0292-02.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Non-diseased muzzle 41 with tongue.jpg,Head,Normal Head,Non-diseased muzzle 41 with tongue.jpg,.jpg,0,0,train
+"c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Cows head, open mouth 22.jpg",Head,Normal Head,"Cows head, open mouth 22.jpg",.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\BB29012024092257_muzzle_png_jpg.rf.2c803e1a0f08b671843c1108309e71f6.jpg,Head,Normal Head,BB29012024092257_muzzle_png_jpg.rf.2c803e1a0f08b671843c1108309e71f6.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_8602-00.jpg,Head,Normal Head,IMG_8602-00.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-5-_jpg.rf.44389b489d1b7a5682baa9e36fe345e1.jpg,Head,Diseased Head,-5-_jpg.rf.44389b489d1b7a5682baa9e36fe345e1.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\sapi_r_15.jpg,Head,Normal Head,sapi_r_15.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Lumpy_Skin_125.png,Head,Diseased Head,Lumpy_Skin_125.png,.png,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\healthymouth_92_jpg.rf.3a7315cfc62f0d0bd003102530238eab.jpg,Head,Normal Head,healthymouth_92_jpg.rf.3a7315cfc62f0d0bd003102530238eab.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230723072450.jpg,Head,Normal Head,IMG20230723072450.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924145828.jpg,Head,Normal Head,IMG20230924145828.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased-dental-pad-14_jpg.rf.352967a799c0c822abb89fdf2ffcff46.jpg,Head,Diseased Head,Diseased-dental-pad-14_jpg.rf.352967a799c0c822abb89fdf2ffcff46.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\sapi_u_6.jpg,Head,Normal Head,sapi_u_6.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Lumpy_Skin_134.png,Head,Diseased Head,Lumpy_Skin_134.png,.png,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230528074329.jpg,Head,Normal Head,IMG20230528074329.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\healthymouth_80_jpg.rf.f020f3157752d81e783662b9003bc0e0.jpg,Head,Normal Head,healthymouth_80_jpg.rf.f020f3157752d81e783662b9003bc0e0.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924144825.jpg,Head,Normal Head,IMG20230924144825.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\BrownSwisscattle87.jpg,Head,Normal Head,BrownSwisscattle87.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Lumpy_Skin_91.png,Head,Diseased Head,Lumpy_Skin_91.png,.png,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\foot-and-mougth-10-_png_jpg.rf.7413233c05b6fa1a2ac03ecaf9b19a4d.jpg,Head,Diseased Head,foot-and-mougth-10-_png_jpg.rf.7413233c05b6fa1a2ac03ecaf9b19a4d.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\foot-and-mougth-18-_jpg.rf.93e34163ac94abb8789ae503489d5599.jpg,Head,Diseased Head,foot-and-mougth-18-_jpg.rf.93e34163ac94abb8789ae503489d5599.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230723072920.jpg,Head,Normal Head,IMG20230723072920.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD_23_jpg.rf.37f8a64244cd049572585a208d6c34f7.jpg,Head,Diseased Head,FMD_23_jpg.rf.37f8a64244cd049572585a208d6c34f7.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD_023_jpg.rf.17c01476287b3bdb8f031f2aa79ef0aa - Copy.jpg,Head,Diseased Head,FMD_023_jpg.rf.17c01476287b3bdb8f031f2aa79ef0aa - Copy.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Non-diseased muzzle 34 with tongue.jpg,Head,Normal Head,Non-diseased muzzle 34 with tongue.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\foot-and-mougth-7-_jpg.rf.5652d3486a35f37d6e6e31d9fc960b0f.jpg,Head,Diseased Head,foot-and-mougth-7-_jpg.rf.5652d3486a35f37d6e6e31d9fc960b0f.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Ayrshirecattle7.jpg,Head,Normal Head,Ayrshirecattle7.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-24-_jpg.rf.a8145c875b1985f2632b853ab03d4ae3.jpg,Head,Diseased Head,-24-_jpg.rf.a8145c875b1985f2632b853ab03d4ae3.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\mouth_4-5_days_4WM.jpg,Head,Diseased Head,mouth_4-5_days_4WM.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased dental pad 53.jpg,Head,Diseased Head,Diseased dental pad 53.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0941-01.jpg,Head,Normal Head,IMG_0941-01.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Drooling cow 7.jpg,Head,Diseased Head,Drooling cow 7.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230826165028.jpg,Head,Normal Head,IMG20230826165028.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-9-_jpg.rf.4ec273fd751327d75143de0b1e64f505.jpg,Head,Diseased Head,-9-_jpg.rf.4ec273fd751327d75143de0b1e64f505.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0661-01.jpg,Head,Normal Head,IMG_0661-01.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased tongue 18.jpg,Head,Diseased Head,Diseased tongue 18.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0605-01.jpg,Head,Normal Head,IMG_0605-01.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Open mouth with teeth 9.jpg,Head,Normal Head,Open mouth with teeth 9.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924143101.jpg,Head,Normal Head,IMG20230924143101.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\BB19012024174448_front_png.rf.8f8d95e4c046e027495838cb7a8342fb.jpg,Head,Normal Head,BB19012024174448_front_png.rf.8f8d95e4c046e027495838cb7a8342fb.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-50-_jpg.rf.dd8523974ad4b4c1e6fefaab15cb859f.jpg,Head,Diseased Head,-50-_jpg.rf.dd8523974ad4b4c1e6fefaab15cb859f.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\foot-and-mougth-26-_jpg.rf.01ef0f1584fe4557e7b0beaa5930b870.jpg,Head,Diseased Head,foot-and-mougth-26-_jpg.rf.01ef0f1584fe4557e7b0beaa5930b870.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased tongue 11.jpg,Head,Diseased Head,Diseased tongue 11.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0434-01.jpg,Head,Normal Head,IMG_0434-01.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924142907.jpg,Head,Normal Head,IMG20230924142907.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Non-diseased muzzle 43 with tongue.jpg,Head,Normal Head,Non-diseased muzzle 43 with tongue.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased-dental-pad-17_jpg.rf.0b9855688ba828c78b0b1e921c399e28.jpg,Head,Diseased Head,Diseased-dental-pad-17_jpg.rf.0b9855688ba828c78b0b1e921c399e28.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased dental pad 55.jpg,Head,Diseased Head,Diseased dental pad 55.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0818-00.jpg,Head,Normal Head,IMG_0818-00.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\imgs031.jpg,Head,Normal Head,imgs031.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\SRm 2d-1WM-1.jpg,Head,Diseased Head,SRm 2d-1WM-1.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD_36_jpg.rf.7a631411f21c8e0496cd5b733fd59703.jpg,Head,Diseased Head,FMD_36_jpg.rf.7a631411f21c8e0496cd5b733fd59703.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\HolsteinFriesiancattle117.jpg,Head,Normal Head,HolsteinFriesiancattle117.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230727070519-01.jpg,Head,Normal Head,IMG20230727070519-01.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230826171617.jpg,Head,Normal Head,IMG20230826171617.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD_39_jpg.rf.15c31926bd8a5e7399164d435cab8423.jpg,Head,Diseased Head,FMD_39_jpg.rf.15c31926bd8a5e7399164d435cab8423.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\foot-and-mougth-37-_jpg.rf.107e8a106782725261a0570612b7b203.jpg,Head,Diseased Head,foot-and-mougth-37-_jpg.rf.107e8a106782725261a0570612b7b203.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\sapi_g_1.jpg,Head,Normal Head,sapi_g_1.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\smalltongueWM.jpg,Head,Diseased Head,smalltongueWM.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0186-02.jpg,Head,Normal Head,IMG_0186-02.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\HolsteinFriesiancattle96.jpg,Head,Normal Head,HolsteinFriesiancattle96.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-6-_jpg.rf.1cde7ac9da3117060c723fa4d9e400b8.jpg,Head,Diseased Head,-6-_jpg.rf.1cde7ac9da3117060c723fa4d9e400b8.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\BrownSwisscattle75.jpg,Head,Normal Head,BrownSwisscattle75.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD_121_jpg.rf.83bb60c7644f33b00814774bf2de92fa.jpg,Head,Diseased Head,FMD_121_jpg.rf.83bb60c7644f33b00814774bf2de92fa.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-13-_jpg.rf.d0856413cfecd933cf5d87410de09e3a.jpg,Head,Diseased Head,-13-_jpg.rf.d0856413cfecd933cf5d87410de09e3a.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_1020-00.jpg,Head,Normal Head,IMG_1020-00.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230826171304.jpg,Head,Normal Head,IMG20230826171304.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0859-02.jpg,Head,Normal Head,IMG_0859-02.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\BrownSwisscattle74.jpg,Head,Normal Head,BrownSwisscattle74.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0192-01.jpg,Head,Normal Head,IMG_0192-01.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230319081607-00.jpg,Head,Normal Head,IMG20230319081607-00.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Cows-head-open-mouth-2_jpg.rf.3affa547d32b3811ee7e5f451d0fdec8.jpg,Head,Diseased Head,Cows-head-open-mouth-2_jpg.rf.3affa547d32b3811ee7e5f451d0fdec8.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\SRm 5-7d-1WM-1.jpg,Head,Diseased Head,SRm 5-7d-1WM-1.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230727070958.jpg,Head,Normal Head,IMG20230727070958.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD_090_jpg.rf.e61420d9917427b9bbdf2930ca78dbe1.jpg,Head,Diseased Head,FMD_090_jpg.rf.e61420d9917427b9bbdf2930ca78dbe1.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\8385612573_09b0d5a494_o-622x600_jpg.rf.282bea711e58cf8aaadff513a3a2285f.jpg,Head,Diseased Head,8385612573_09b0d5a494_o-622x600_jpg.rf.282bea711e58cf8aaadff513a3a2285f.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924142808.jpg,Head,Normal Head,IMG20230924142808.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\mouth_5-7_days_1WM.jpg,Head,Diseased Head,mouth_5-7_days_1WM.jpg,.jpg,1,0,train
+"c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\3 day vesicle, steer, tongue.jpg",Head,Diseased Head,"3 day vesicle, steer, tongue.jpg",.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924143212.jpg,Head,Normal Head,IMG20230924143212.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_20230319_071502-02.jpg,Head,Normal Head,IMG_20230319_071502-02.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Open mouth with teeth 5.jpg,Head,Normal Head,Open mouth with teeth 5.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased tongue 12.jpg,Head,Diseased Head,Diseased tongue 12.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Drooling cow 3.jpg,Head,Diseased Head,Drooling cow 3.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD__4_jpg.rf.3ebe7f5afcb031a332c311f8691b9369.jpg,Head,Diseased Head,FMD__4_jpg.rf.3ebe7f5afcb031a332c311f8691b9369.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Drooling cow 1.jpeg,Head,Diseased Head,Drooling cow 1.jpeg,.jpeg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Lumpy_Skin_111.png,Head,Diseased Head,Lumpy_Skin_111.png,.png,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_20230319_130711-02.jpg,Head,Normal Head,IMG_20230319_130711-02.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\sapi_f_3.jpg,Head,Normal Head,sapi_f_3.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230723072836_01.jpg,Head,Normal Head,IMG20230723072836_01.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_20230319_074342-00.jpg,Head,Normal Head,IMG_20230319_074342-00.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Lumpy_Skin_272.png,Head,Diseased Head,Lumpy_Skin_272.png,.png,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230319082823-00.jpg,Head,Normal Head,IMG20230319082823-00.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Lumpy_Skin_8_png.rf.4bb0998d1b4d3194307e447593a24c23.jpg,Head,Diseased Head,Lumpy_Skin_8_png.rf.4bb0998d1b4d3194307e447593a24c23.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0539-02.jpg,Head,Normal Head,IMG_0539-02.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD_010_jpg.rf.04bb23b1931708a8fb0183ffb7364671.jpg,Head,Diseased Head,FMD_010_jpg.rf.04bb23b1931708a8fb0183ffb7364671.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\tongue_3-4_days_WM.jpg,Head,Diseased Head,tongue_3-4_days_WM.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\DSCN2563.JPG,Head,Diseased Head,DSCN2563.JPG,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased-dental-pad-7_jpg.rf.320982f4fd68eacb279cb06324bcc7ff.jpg,Head,Diseased Head,Diseased-dental-pad-7_jpg.rf.320982f4fd68eacb279cb06324bcc7ff.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\sapi_x_15.jpg,Head,Normal Head,sapi_x_15.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD__15_jpg.rf.017fafc293c9fac275febb88e4da6981.jpg,Head,Diseased Head,FMD__15_jpg.rf.017fafc293c9fac275febb88e4da6981.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD__14_jpg.rf.9260d4c5f5d1f89f12be4ecb981d16be.jpg,Head,Diseased Head,FMD__14_jpg.rf.9260d4c5f5d1f89f12be4ecb981d16be.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924142821.jpg,Head,Normal Head,IMG20230924142821.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_20230319_125413-00.jpg,Head,Normal Head,IMG_20230319_125413-00.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-31-_jpg.rf.fce3f57c43306fe3c415dc395a0164f6.jpg,Head,Diseased Head,-31-_jpg.rf.fce3f57c43306fe3c415dc395a0164f6.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230723065248.jpg,Head,Normal Head,IMG20230723065248.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\BrownSwisscattle15.jpg,Head,Normal Head,BrownSwisscattle15.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924143146.jpg,Head,Normal Head,IMG20230924143146.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\BrownSwisscattle18.jpg,Head,Normal Head,BrownSwisscattle18.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\cm2-3WM-1.jpg,Head,Diseased Head,cm2-3WM-1.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230826171529.jpg,Head,Normal Head,IMG20230826171529.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Non-diseased muzzle 30 with tongue.jpg,Head,Normal Head,Non-diseased muzzle 30 with tongue.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924144940.jpg,Head,Normal Head,IMG20230924144940.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230723070315.jpg,Head,Normal Head,IMG20230723070315.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD_1_jpg.rf.49a25f605282c5bbcbb8cf54bab63cf2.jpg,Head,Diseased Head,FMD_1_jpg.rf.49a25f605282c5bbcbb8cf54bab63cf2.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Ayrshirecattle38.jpg,Head,Normal Head,Ayrshirecattle38.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased-dental-pad-1_jpg.rf.af30838a7100af8ed77e0e791033fdb9.jpg,Head,Diseased Head,Diseased-dental-pad-1_jpg.rf.af30838a7100af8ed77e0e791033fdb9.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased tongue 9.jpg,Head,Diseased Head,Diseased tongue 9.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\BrownSwisscattle71.jpg,Head,Normal Head,BrownSwisscattle71.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\mouth_4-5 daysJMOKWM.jpg,Head,Diseased Head,mouth_4-5 daysJMOKWM.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\BrownSwisscattle136.jpg,Head,Normal Head,BrownSwisscattle136.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased-dental-pad-27_jpg.rf.0e9b92a9d21471561c553ec524dbadc2.jpg,Head,Diseased Head,Diseased-dental-pad-27_jpg.rf.0e9b92a9d21471561c553ec524dbadc2.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased tongue 6.jpg,Head,Diseased Head,Diseased tongue 6.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230807185843.jpg,Head,Normal Head,IMG20230807185843.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924142833.jpg,Head,Normal Head,IMG20230924142833.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\HolsteinFriesiancattle102.jpg,Head,Normal Head,HolsteinFriesiancattle102.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\10-day-lesions-steer-tongue_jpg.rf.124032dc3c0402b5e77931480510a213.jpg,Head,Diseased Head,10-day-lesions-steer-tongue_jpg.rf.124032dc3c0402b5e77931480510a213.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_20230319_081326-00.jpg,Head,Normal Head,IMG_20230319_081326-00.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0950-01.jpg,Head,Normal Head,IMG_0950-01.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\foot-and-mougth-13-_png_jpg.rf.a6fd06353c6acdb98cb9c9a5fdcddbaf.jpg,Head,Diseased Head,foot-and-mougth-13-_png_jpg.rf.a6fd06353c6acdb98cb9c9a5fdcddbaf.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Underside of tongue 5.jpg,Head,Normal Head,Underside of tongue 5.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\sapi_t_1.jpg,Head,Normal Head,sapi_t_1.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD_031_jpg.rf.9058a81d63e12e5d390d8eda1e49187a.jpg,Head,Diseased Head,FMD_031_jpg.rf.9058a81d63e12e5d390d8eda1e49187a.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\sapi_n_1.jpg,Head,Normal Head,sapi_n_1.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230723065158.jpg,Head,Normal Head,IMG20230723065158.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\BrownSwisscattle148.jpg,Head,Normal Head,BrownSwisscattle148.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\mouth_4_daysJMOKWM.jpg,Head,Diseased Head,mouth_4_daysJMOKWM.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\LSD-91-_jpg.rf.d7791df4b1b11007c7085edb71c522c7.jpg,Head,Diseased Head,LSD-91-_jpg.rf.d7791df4b1b11007c7085edb71c522c7.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-25-_jpg.rf.4c8cce5a981223fa17d3c8efc2a40fd3.jpg,Head,Diseased Head,-25-_jpg.rf.4c8cce5a981223fa17d3c8efc2a40fd3.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230727071119.jpg,Head,Normal Head,IMG20230727071119.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_20230319_144633__01-02.jpg,Head,Normal Head,IMG_20230319_144633__01-02.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\sapi_h_19.jpg,Head,Normal Head,sapi_h_19.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\sapi_k_2.jpg,Head,Normal Head,sapi_k_2.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_20230319_070441-00.jpg,Head,Normal Head,IMG_20230319_070441-00.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0077-00.jpg,Head,Normal Head,IMG_0077-00.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased tongue 1.jpeg,Head,Diseased Head,Diseased tongue 1.jpeg,.jpeg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0055-02.jpg,Head,Normal Head,IMG_0055-02.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_20230319_071429-01.jpg,Head,Normal Head,IMG_20230319_071429-01.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\mouth_7-8_days_1WM.jpg,Head,Diseased Head,mouth_7-8_days_1WM.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_8723-01.jpg,Head,Normal Head,IMG_8723-01.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230528074049.jpg,Head,Normal Head,IMG20230528074049.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\foot-and-mougth-11-_jpg.rf.855849d23be9bb2089ca9274a413297e.jpg,Head,Diseased Head,foot-and-mougth-11-_jpg.rf.855849d23be9bb2089ca9274a413297e.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-37-_jpg.rf.df3f9dce7699b8948f5d7faba3941fc9.jpg,Head,Diseased Head,-37-_jpg.rf.df3f9dce7699b8948f5d7faba3941fc9.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD_032_jpg.rf.cfc20399287e9ee87ee5ff1763fbfab5.jpg,Head,Diseased Head,FMD_032_jpg.rf.cfc20399287e9ee87ee5ff1763fbfab5.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924143307.jpg,Head,Normal Head,IMG20230924143307.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased tongue 13.jpg,Head,Diseased Head,Diseased tongue 13.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\mouth_and_tongue 2-4_daysWM.jpg,Head,Diseased Head,mouth_and_tongue 2-4_daysWM.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Lumpy_Skin_112.png,Head,Diseased Head,Lumpy_Skin_112.png,.png,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230807184315.jpg,Head,Normal Head,IMG20230807184315.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230531164058.jpg,Head,Normal Head,IMG20230531164058.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_20230319_144407-01.jpg,Head,Normal Head,IMG_20230319_144407-01.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924152054.jpg,Head,Normal Head,IMG20230924152054.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD_3_jpg.rf.09e0953b4e9942b398891e25ad292618.jpg,Head,Diseased Head,FMD_3_jpg.rf.09e0953b4e9942b398891e25ad292618.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924144332.jpg,Head,Normal Head,IMG20230924144332.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\cm2-1WM-1.jpg,Head,Diseased Head,cm2-1WM-1.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\P1020006WM-1.jpg,Head,Diseased Head,P1020006WM-1.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0181-02.jpg,Head,Normal Head,IMG_0181-02.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924145708.jpg,Head,Normal Head,IMG20230924145708.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\sapi_z_11.jpg,Head,Normal Head,sapi_z_11.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0761-02.jpg,Head,Normal Head,IMG_0761-02.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Capture_png.rf.837b0dcc2fd178a7cdd7eea78194423a.jpg,Head,Diseased Head,Capture_png.rf.837b0dcc2fd178a7cdd7eea78194423a.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Non-diseased muzzle 29.jpg,Head,Normal Head,Non-diseased muzzle 29.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\8-malignant-catarral-fever-mcf_jpg.rf.2cb8cde45c1ed57b436f8ea6fb820072.jpg,Head,Diseased Head,8-malignant-catarral-fever-mcf_jpg.rf.2cb8cde45c1ed57b436f8ea6fb820072.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230826165053.jpg,Head,Normal Head,IMG20230826165053.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Underside of tongue 3.jpg,Head,Normal Head,Underside of tongue 3.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\BrownSwisscattle27.jpg,Head,Normal Head,BrownSwisscattle27.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\foot-and-mougth-3-_png.rf.d4472253c800436d01eaca33524b2148.jpg,Head,Diseased Head,foot-and-mougth-3-_png.rf.d4472253c800436d01eaca33524b2148.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\sapi_j_8.jpg,Head,Normal Head,sapi_j_8.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_8679-00.jpg,Head,Normal Head,IMG_8679-00.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230723074751.jpg,Head,Normal Head,IMG20230723074751.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Underside of tongue 4.jpg,Head,Normal Head,Underside of tongue 4.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230807185259.jpg,Head,Normal Head,IMG20230807185259.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-48-_jpg.rf.208f7b3134f412c1476539b3c0c4a0a6.jpg,Head,Diseased Head,-48-_jpg.rf.208f7b3134f412c1476539b3c0c4a0a6.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230528083902.jpg,Head,Normal Head,IMG20230528083902.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\mouth_4-5_days_2WM.jpg,Head,Diseased Head,mouth_4-5_days_2WM.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0166-02.jpg,Head,Normal Head,IMG_0166-02.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_20230319_080415-00.jpg,Head,Normal Head,IMG_20230319_080415-00.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\img1296(1).jpg,Head,Diseased Head,img1296(1).jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\P1020007WM-1.jpg,Head,Diseased Head,P1020007WM-1.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased lower lip mucosa 9.jpg,Head,Diseased Head,Diseased lower lip mucosa 9.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\5-foot-mouth-disease-fmd-vesicle-tongue_jpg.rf.cd6f7d2b44c0ce88c3659bf8324588c5.jpg,Head,Diseased Head,5-foot-mouth-disease-fmd-vesicle-tongue_jpg.rf.cd6f7d2b44c0ce88c3659bf8324588c5.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230727071152.jpg,Head,Normal Head,IMG20230727071152.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Goat mouth vesicles 20121211-1WM.jpg,Head,Diseased Head,Goat mouth vesicles 20121211-1WM.jpg,.jpg,1,0,train
+"c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\1 day vesicle, steer, tongue.jpg",Head,Diseased Head,"1 day vesicle, steer, tongue.jpg",.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Ayrshirecattle44.jpg,Head,Normal Head,Ayrshirecattle44.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230723065608.jpg,Head,Normal Head,IMG20230723065608.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\cm6-8-1WM-1.jpg,Head,Diseased Head,cm6-8-1WM-1.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD_019_jpg.rf.60d1f09d8c0013c89b46b8299ffb027b.jpg,Head,Diseased Head,FMD_019_jpg.rf.60d1f09d8c0013c89b46b8299ffb027b.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Cows-head-open-mouth-12_jpg.rf.234073510bc6e40cdc2abf3045ac1fbe.jpg,Head,Diseased Head,Cows-head-open-mouth-12_jpg.rf.234073510bc6e40cdc2abf3045ac1fbe.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased lower lip mucosa 6.jpg,Head,Diseased Head,Diseased lower lip mucosa 6.jpg,.jpg,1,0,train
+"c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\2 day vesicle, steer, mouth.jpg",Head,Diseased Head,"2 day vesicle, steer, mouth.jpg",.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\sapi_o_3.jpg,Head,Normal Head,sapi_o_3.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\10-foot-mouth-disease-fmd-ulcers-palate_jpg.rf.9e4fc1e5ef96c8b52bc0926753aa14ef.jpg,Head,Diseased Head,10-foot-mouth-disease-fmd-ulcers-palate_jpg.rf.9e4fc1e5ef96c8b52bc0926753aa14ef.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\pictures.png,Head,Normal Head,pictures.png,.png,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\imgs017.jpg,Head,Normal Head,imgs017.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Ayrshirecattle28.jpg,Head,Normal Head,Ayrshirecattle28.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-28-_jpg.rf.df47ba0d466593d17984ad9d9961dfc6.jpg,Head,Diseased Head,-28-_jpg.rf.df47ba0d466593d17984ad9d9961dfc6.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0500-02.jpg,Head,Normal Head,IMG_0500-02.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\sapi_q_2.jpg,Head,Normal Head,sapi_q_2.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924144030_01.jpg,Head,Normal Head,IMG20230924144030_01.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-3-_jpg.rf.049aacc240fa8fda1c4d50aadf93a7f0.jpg,Head,Diseased Head,-3-_jpg.rf.049aacc240fa8fda1c4d50aadf93a7f0.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD_23_jpg.rf.5e1d53e50ed8e7552f4edf26c2f9698a - Copy.jpg,Head,Diseased Head,FMD_23_jpg.rf.5e1d53e50ed8e7552f4edf26c2f9698a - Copy.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Ayrshirecattle105.jpg,Head,Normal Head,Ayrshirecattle105.jpg,.jpg,0,0,train
+"c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\4 day lesions, steer, tongue and gum.jpg",Head,Diseased Head,"4 day lesions, steer, tongue and gum.jpg",.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230727070524-02.jpg,Head,Normal Head,IMG20230727070524-02.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD_052_jpg.rf.362a0765c2f4b29002cd1fadb6c92f8d.jpg,Head,Diseased Head,FMD_052_jpg.rf.362a0765c2f4b29002cd1fadb6c92f8d.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-36-_jpg.rf.60353088fc0be413aa3d83b926d6ecb0.jpg,Head,Diseased Head,-36-_jpg.rf.60353088fc0be413aa3d83b926d6ecb0.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924144135_01.jpg,Head,Normal Head,IMG20230924144135_01.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924143007_01.jpg,Head,Normal Head,IMG20230924143007_01.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924144643.jpg,Head,Normal Head,IMG20230924144643.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_8790-02.jpg,Head,Normal Head,IMG_8790-02.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230528085630.jpg,Head,Normal Head,IMG20230528085630.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Dorsal side of tongue 4.jpg,Head,Normal Head,Dorsal side of tongue 4.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\cm 10-14-1WM-1.jpg,Head,Diseased Head,cm 10-14-1WM-1.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924145150.jpg,Head,Normal Head,IMG20230924145150.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD_91_jpg.rf.e91d9deedac34fd75938fc0eb6e9800b.jpg,Head,Diseased Head,FMD_91_jpg.rf.e91d9deedac34fd75938fc0eb6e9800b.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\mouth_4-5_days_6WM.jpg,Head,Diseased Head,mouth_4-5_days_6WM.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0427-00.jpg,Head,Normal Head,IMG_0427-00.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\sapi_r_10.jpg,Head,Normal Head,sapi_r_10.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0008-00.jpg,Head,Normal Head,IMG_0008-00.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\foot-and-mougth-36-_png_jpg.rf.626bda4378fccce6eb8e623921ef8fef.jpg,Head,Diseased Head,foot-and-mougth-36-_png_jpg.rf.626bda4378fccce6eb8e623921ef8fef.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\foot-and-mougth-4-_jpg.rf.1e2af6f7e931e5e932868239a96f7b54.jpg,Head,Diseased Head,foot-and-mougth-4-_jpg.rf.1e2af6f7e931e5e932868239a96f7b54.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_20230319_074209-02.jpg,Head,Normal Head,IMG_20230319_074209-02.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\mouth_2-3_days_1JMOKWM.jpg,Head,Diseased Head,mouth_2-3_days_1JMOKWM.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\cmo7-10-1WM.jpg,Head,Diseased Head,cmo7-10-1WM.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\mouth_4-5_days_5WM.jpg,Head,Diseased Head,mouth_4-5_days_5WM.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\BB01022024172419_front-png_jpg.rf.17390cd5ebd66915f04e1c6e5f887719.jpg,Head,Normal Head,BB01022024172419_front-png_jpg.rf.17390cd5ebd66915f04e1c6e5f887719.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\imgs029.jpg,Head,Normal Head,imgs029.jpg,.jpg,0,0,train
+"c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Cows head, open mouth 16.jpg",Head,Normal Head,"Cows head, open mouth 16.jpg",.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Open mouth with teeth 2.jpg,Head,Normal Head,Open mouth with teeth 2.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230826171648.jpg,Head,Normal Head,IMG20230826171648.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-2-_jpg.rf.9ffdf7c95d99aea989f7465117115681.jpg,Head,Diseased Head,-2-_jpg.rf.9ffdf7c95d99aea989f7465117115681.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\BB20012024132638_front_png_jpg.rf.58bc7ee487d82b9be9121d235b894eb1.jpg,Head,Normal Head,BB20012024132638_front_png_jpg.rf.58bc7ee487d82b9be9121d235b894eb1.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924144056.jpg,Head,Normal Head,IMG20230924144056.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-1-_jpg.rf.6d3e8fb103569503844b178ef99c9b16.jpg,Head,Diseased Head,-1-_jpg.rf.6d3e8fb103569503844b178ef99c9b16.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230727071053-02.jpg,Head,Normal Head,IMG20230727071053-02.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\mouth_1_dayWM.jpg,Head,Diseased Head,mouth_1_dayWM.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Non-diseased muzzle 30.jpg,Head,Normal Head,Non-diseased muzzle 30.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\LSD-82-_jpg.rf.bb6b02869e4cbb886601ee02fc8a6793.jpg,Head,Diseased Head,LSD-82-_jpg.rf.bb6b02869e4cbb886601ee02fc8a6793.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230528073023.jpg,Head,Normal Head,IMG20230528073023.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\mouthfibrinWM.jpg,Head,Diseased Head,mouthfibrinWM.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0357-01.jpg,Head,Normal Head,IMG_0357-01.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\cow-drooling-from-mouth-and-nose-FMD-600px_jpg.rf.9badff79778af6445c0dede3ab525dab.jpg,Head,Diseased Head,cow-drooling-from-mouth-and-nose-FMD-600px_jpg.rf.9badff79778af6445c0dede3ab525dab.jpg,.jpg,1,0,train
+"c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\5-7 day lesion, foot.jpeg",Head,Diseased Head,"5-7 day lesion, foot.jpeg",.jpeg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924142752_01.jpg,Head,Normal Head,IMG20230924142752_01.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD_4_jpg.rf.2ecd4a4e51076b2324290dda771730a1.jpg,Head,Diseased Head,FMD_4_jpg.rf.2ecd4a4e51076b2324290dda771730a1.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230723065505.jpg,Head,Normal Head,IMG20230723065505.jpg,.jpg,0,0,train
+"c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\2 day vesicle, steer, heel bulb.jpg",Head,Diseased Head,"2 day vesicle, steer, heel bulb.jpg",.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD__3_jpg.rf.164b9ac14d8ca29ec6094577f36ad0f8.jpg,Head,Diseased Head,FMD__3_jpg.rf.164b9ac14d8ca29ec6094577f36ad0f8.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\LS-9_jpg.rf.7babc57f77f39e487bb3614182369734.jpg,Head,Diseased Head,LS-9_jpg.rf.7babc57f77f39e487bb3614182369734.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased tongue 24.jpg,Head,Diseased Head,Diseased tongue 24.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924143531.jpg,Head,Normal Head,IMG20230924143531.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0809-02.jpg,Head,Normal Head,IMG_0809-02.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Normal_Skin_712.png,Head,Normal Head,Normal_Skin_712.png,.png,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased-dental-pad-36_jpg.rf.5dc1b0bb42ec944d87921d1e38216072.jpg,Head,Diseased Head,Diseased-dental-pad-36_jpg.rf.5dc1b0bb42ec944d87921d1e38216072.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924145024.jpg,Head,Normal Head,IMG20230924145024.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\foot-and-mougth-5-_png_jpg.rf.9750ef1a7d1c6067e6dfe64bdcd6a977.jpg,Head,Diseased Head,foot-and-mougth-5-_png_jpg.rf.9750ef1a7d1c6067e6dfe64bdcd6a977.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924144545.jpg,Head,Normal Head,IMG20230924144545.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\IMG_Lumpy_skin_disease_i_2_1_MAA9R3GQ_jpg.rf.1bd49d094107da006fd2911281a6f46a.jpg,Head,Diseased Head,IMG_Lumpy_skin_disease_i_2_1_MAA9R3GQ_jpg.rf.1bd49d094107da006fd2911281a6f46a.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Non-diseased muzzle 29 with tongue.jpg,Head,Normal Head,Non-diseased muzzle 29 with tongue.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230723065055.jpg,Head,Normal Head,IMG20230723065055.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924152003.jpg,Head,Normal Head,IMG20230924152003.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\HolsteinFriesiancattle137.jpg,Head,Normal Head,HolsteinFriesiancattle137.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased-dental-pad-14_jpg.rf.5e90f169538f26ab8f326dd0dc9b45f1.jpg,Head,Diseased Head,Diseased-dental-pad-14_jpg.rf.5e90f169538f26ab8f326dd0dc9b45f1.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Non-diseased muzzle 42 with tongue.jpg,Head,Normal Head,Non-diseased muzzle 42 with tongue.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased lower lip mucosa 7.jpg,Head,Diseased Head,Diseased lower lip mucosa 7.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924144209.jpg,Head,Normal Head,IMG20230924144209.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\DSCN0081.JPG,Head,Diseased Head,DSCN0081.JPG,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased tongue 8.jpg,Head,Diseased Head,Diseased tongue 8.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\BB24012024151720_front_png_jpg.rf.0d6e48d38ec7e82153e9a82baea5cb26.jpg,Head,Normal Head,BB24012024151720_front_png_jpg.rf.0d6e48d38ec7e82153e9a82baea5cb26.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased-dental-pad-21_jpg.rf.2fd0fb3e3db9689fa5dc2d11483a1ad1.jpg,Head,Diseased Head,Diseased-dental-pad-21_jpg.rf.2fd0fb3e3db9689fa5dc2d11483a1ad1.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\sapi_p_10.jpg,Head,Normal Head,sapi_p_10.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230723065943.jpg,Head,Normal Head,IMG20230723065943.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0584-00.jpg,Head,Normal Head,IMG_0584-00.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\tongue_3-4_daysWM.jpg,Head,Diseased Head,tongue_3-4_daysWM.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\foot-and-mougth-12-_jpeg.rf.f0880bb53a0eb3bb4b0f8816bc4f1686.jpg,Head,Diseased Head,foot-and-mougth-12-_jpeg.rf.f0880bb53a0eb3bb4b0f8816bc4f1686.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased-dental-pad-48_jpg.rf.67e56cc9b53b8b3a55ded8ab9cd7181f.jpg,Head,Diseased Head,Diseased-dental-pad-48_jpg.rf.67e56cc9b53b8b3a55ded8ab9cd7181f.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased dental pad 3.jpg,Head,Diseased Head,Diseased dental pad 3.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Ayrshirecattle92.jpg,Head,Normal Head,Ayrshirecattle92.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\LSD-201-_jpg.rf.11646df4759dbafc30d7e41f5a75232d.jpg,Head,Diseased Head,LSD-201-_jpg.rf.11646df4759dbafc30d7e41f5a75232d.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD-cattle-8-Copy-10-_jpg.rf.710efa2bd8ceace0f4c72a5ed89675a9.jpg,Head,Diseased Head,FMD-cattle-8-Copy-10-_jpg.rf.710efa2bd8ceace0f4c72a5ed89675a9.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\sapi_y_17.jpg,Head,Normal Head,sapi_y_17.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\sapi_l_2.jpg,Head,Normal Head,sapi_l_2.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Underside of tongue 6.jpg,Head,Normal Head,Underside of tongue 6.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\cm1-1WM-1.jpg,Head,Diseased Head,cm1-1WM-1.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased tongue 27.jpg,Head,Diseased Head,Diseased tongue 27.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0492-00.jpg,Head,Normal Head,IMG_0492-00.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924151929.jpg,Head,Normal Head,IMG20230924151929.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\P1010989WM-1.jpg,Head,Diseased Head,P1010989WM-1.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\mosap-454-_jpg.rf.ae1c9c8b9ed7596a5a8b635a527a9fcd.jpg,Head,Diseased Head,mosap-454-_jpg.rf.ae1c9c8b9ed7596a5a8b635a527a9fcd.jpg,.jpg,1,0,train
+"c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Calf, underside of tongue 1.jpg",Head,Normal Head,"Calf, underside of tongue 1.jpg",.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased muzzle 4.jpg,Head,Diseased Head,Diseased muzzle 4.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230826171442.jpg,Head,Normal Head,IMG20230826171442.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\cm6-8-2WM-1.jpg,Head,Diseased Head,cm6-8-2WM-1.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0034-01.jpg,Head,Normal Head,IMG_0034-01.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased tongue 26.jpg,Head,Diseased Head,Diseased tongue 26.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased muzzle 9.jpg,Head,Diseased Head,Diseased muzzle 9.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased muzzle 2.jpg,Head,Diseased Head,Diseased muzzle 2.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230723065709.jpg,Head,Normal Head,IMG20230723065709.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\5-Buffalo-cow-in-Laos-with-FMD-feeling-much-better-following-topical-treatment-with-Tri-Solfen_jpg.rf.3bfb82aa87195cd4946572f309dde523.jpg,Head,Diseased Head,5-Buffalo-cow-in-Laos-with-FMD-feeling-much-better-following-topical-treatment-with-Tri-Solfen_jpg.rf.3bfb82aa87195cd4946572f309dde523.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-43-_jpg.rf.6b4c9e9bd79999472ee9979c1d6ac100.jpg,Head,Diseased Head,-43-_jpg.rf.6b4c9e9bd79999472ee9979c1d6ac100.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-35-_jpg.rf.4f8c3ba5ea6d6f2556730ab1d0b883c8.jpg,Head,Diseased Head,-35-_jpg.rf.4f8c3ba5ea6d6f2556730ab1d0b883c8.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0049-01.jpg,Head,Normal Head,IMG_0049-01.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0990-00.jpg,Head,Normal Head,IMG_0990-00.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-8-_jpg.rf.b490d0ab7c7062cd8c399fb8d51c8ab1.jpg,Head,Diseased Head,-8-_jpg.rf.b490d0ab7c7062cd8c399fb8d51c8ab1.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0455-00.jpg,Head,Normal Head,IMG_0455-00.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\LS-29_JPG_jpg.rf.c4fbfae8b7bc8e170086188483b82854.jpg,Head,Diseased Head,LS-29_JPG_jpg.rf.c4fbfae8b7bc8e170086188483b82854.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD_40_jpg.rf.1a35571afbce949cb215bc3f65a6481d.jpg,Head,Diseased Head,FMD_40_jpg.rf.1a35571afbce949cb215bc3f65a6481d.jpg,.jpg,1,0,train
+"c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Cows head, open mouth 17.jpg",Head,Normal Head,"Cows head, open mouth 17.jpg",.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased tongue 1.jpg,Head,Diseased Head,Diseased tongue 1.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924150125.jpg,Head,Normal Head,IMG20230924150125.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD_4_jpg.rf.9b0eb8788b38ed14249abc74245b2a0d.jpg,Head,Diseased Head,FMD_4_jpg.rf.9b0eb8788b38ed14249abc74245b2a0d.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Open mouth with teeth 8.jpg,Head,Normal Head,Open mouth with teeth 8.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230727070505-01.jpg,Head,Normal Head,IMG20230727070505-01.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230319071306-02.jpg,Head,Normal Head,IMG20230319071306-02.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased-dental-pad-23_jpg.rf.a5c06996e0026c5d3155ffb7b560e8cf.jpg,Head,Diseased Head,Diseased-dental-pad-23_jpg.rf.a5c06996e0026c5d3155ffb7b560e8cf.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-19-_jpg.rf.a836d466864125a2118a684a7a20a434.jpg,Head,Diseased Head,-19-_jpg.rf.a836d466864125a2118a684a7a20a434.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\BrownSwisscattle43.jpg,Head,Normal Head,BrownSwisscattle43.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0017-01.jpg,Head,Normal Head,IMG_0017-01.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\P1010948WM-1.jpg,Head,Diseased Head,P1010948WM-1.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-41-_jpg.rf.b09c4e33f32fbb74ce134c91e5015db7.jpg,Head,Diseased Head,-41-_jpg.rf.b09c4e33f32fbb74ce134c91e5015db7.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Ayrshirecattle16.jpg,Head,Normal Head,Ayrshirecattle16.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\BrownSwisscattle133_c.jpg,Head,Normal Head,BrownSwisscattle133_c.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Non-diseased-muzzle-6_jpg.rf.ebb692f99782867fac339a4ac71394b8.jpg,Head,Normal Head,Non-diseased-muzzle-6_jpg.rf.ebb692f99782867fac339a4ac71394b8.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924144715.jpg,Head,Normal Head,IMG20230924144715.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\BB29012024091841_muzzle_png_jpg.rf.e3d3c8f37ac2184d50ff0d8280834da7.jpg,Head,Normal Head,BB29012024091841_muzzle_png_jpg.rf.e3d3c8f37ac2184d50ff0d8280834da7.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\sapi_x_14.jpg,Head,Normal Head,sapi_x_14.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\foot-and-mougth-17-_jpg.rf.1244c70ff3441bd241e2147d7b72d98d.jpg,Head,Diseased Head,foot-and-mougth-17-_jpg.rf.1244c70ff3441bd241e2147d7b72d98d.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230528072440.jpg,Head,Normal Head,IMG20230528072440.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\foot-and-mougth-15-_png_jpg.rf.1f3af7e607adf394b26969b2fb53f5fe.jpg,Head,Diseased Head,foot-and-mougth-15-_png_jpg.rf.1f3af7e607adf394b26969b2fb53f5fe.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_20230319_122004-00.jpg,Head,Normal Head,IMG_20230319_122004-00.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\4-foot-mouth-disease-fmd-vesicles-tongue-ulceration_jpg.rf.9d694269a3a8aa837f9903651cc45707.jpg,Head,Diseased Head,4-foot-mouth-disease-fmd-vesicles-tongue-ulceration_jpg.rf.9d694269a3a8aa837f9903651cc45707.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_20230319_081729-00.jpg,Head,Normal Head,IMG_20230319_081729-00.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230807184456.jpg,Head,Normal Head,IMG20230807184456.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\LSD-168-_png_jpg.rf.820a35ca2d3b0faf16f3cb68863ec50c.jpg,Head,Diseased Head,LSD-168-_png_jpg.rf.820a35ca2d3b0faf16f3cb68863ec50c.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924150616.jpg,Head,Normal Head,IMG20230924150616.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\cm 10-1WM-1.jpg,Head,Diseased Head,cm 10-1WM-1.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased tongue 2.2.jpeg,Head,Diseased Head,Diseased tongue 2.2.jpeg,.jpeg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Non-diseased-muzzle-7-with-tongue_jpg.rf.379bc78b0f4c7a884fe2310b12e11602.jpg,Head,Normal Head,Non-diseased-muzzle-7-with-tongue_jpg.rf.379bc78b0f4c7a884fe2310b12e11602.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\LSD-140-_png_jpg.rf.86c730612df945caf81466fd03e6730d.jpg,Head,Diseased Head,LSD-140-_png_jpg.rf.86c730612df945caf81466fd03e6730d.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\foot-and-mougth-11-_jpeg.rf.ef9f3be15830e947ef1516b9487f5551.jpg,Head,Diseased Head,foot-and-mougth-11-_jpeg.rf.ef9f3be15830e947ef1516b9487f5551.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\BB01022024174914_front-png_jpg.rf.9d9486fb70d1c6a6bb16f105586ef245.jpg,Head,Normal Head,BB01022024174914_front-png_jpg.rf.9d9486fb70d1c6a6bb16f105586ef245.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0636-01.jpg,Head,Normal Head,IMG_0636-01.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\DSCN0059.jpg,Head,Diseased Head,DSCN0059.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-47-_jpg.rf.b3de96a98536820a3be8c4ea2c2a2afd.jpg,Head,Diseased Head,-47-_jpg.rf.b3de96a98536820a3be8c4ea2c2a2afd.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\sapi_v_6.jpg,Head,Normal Head,sapi_v_6.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_8660-02.jpg,Head,Normal Head,IMG_8660-02.jpg,.jpg,0,0,train
+"c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Cows head, open mouth 4.jpg",Head,Normal Head,"Cows head, open mouth 4.jpg",.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased-dental-pad-28_jpg.rf.3ff1b4934dab0553a26b90a75278238f.jpg,Head,Diseased Head,Diseased-dental-pad-28_jpg.rf.3ff1b4934dab0553a26b90a75278238f.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\BrownSwisscattle147_c.jpg,Head,Normal Head,BrownSwisscattle147_c.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924142801.jpg,Head,Normal Head,IMG20230924142801.jpg,.jpg,0,0,train
+"c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Cows head, open mouth 21.jpg",Head,Normal Head,"Cows head, open mouth 21.jpg",.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\foot-and-mougth-19-_jpg.rf.39fc7f7950da22e03dd8557aa5828909.jpg,Head,Diseased Head,foot-and-mougth-19-_jpg.rf.39fc7f7950da22e03dd8557aa5828909.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230723075025.jpg,Head,Normal Head,IMG20230723075025.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\foot-and-mougth-8-_jpg.rf.4f1f6370053d7c1cd27b4fa9dc65fba6.jpg,Head,Diseased Head,foot-and-mougth-8-_jpg.rf.4f1f6370053d7c1cd27b4fa9dc65fba6.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924145126.jpg,Head,Normal Head,IMG20230924145126.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924150118.jpg,Head,Normal Head,IMG20230924150118.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0246-00.jpg,Head,Normal Head,IMG_0246-00.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_20230319_125044__01-01.jpg,Head,Normal Head,IMG_20230319_125044__01-01.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\BB01022024171527_front-png_jpg.rf.6f4c5f89d549e78a2e5b881d412dbed7.jpg,Head,Normal Head,BB01022024171527_front-png_jpg.rf.6f4c5f89d549e78a2e5b881d412dbed7.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Cow-mouth-with-teeth-1_jpg.rf.a9c236bf6340651ed8daa2cd99650d17.jpg,Head,Diseased Head,Cow-mouth-with-teeth-1_jpg.rf.a9c236bf6340651ed8daa2cd99650d17.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\LSD-2-_png_jpg.rf.79d40358f6db906819afc56b1cd7cb98.jpg,Head,Diseased Head,LSD-2-_png_jpg.rf.79d40358f6db906819afc56b1cd7cb98.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0441-01.jpg,Head,Normal Head,IMG_0441-01.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230727070523.jpg,Head,Normal Head,IMG20230727070523.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_1068-02.jpg,Head,Normal Head,IMG_1068-02.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\LSD-89-_jpg.rf.d0aad20ea21843af108922ec2cbbd741.jpg,Head,Diseased Head,LSD-89-_jpg.rf.d0aad20ea21843af108922ec2cbbd741.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Drooling cow 6.jpg,Head,Diseased Head,Drooling cow 6.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased dental pad 29.jpg,Head,Diseased Head,Diseased dental pad 29.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\foot-and-mougth-1-_jpeg.rf.e1276bc03e68cc8156c80f95b0e4780d.jpg,Head,Diseased Head,foot-and-mougth-1-_jpeg.rf.e1276bc03e68cc8156c80f95b0e4780d.jpg,.jpg,1,0,train
+"c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Cows head, open mouth 9.jpg",Head,Normal Head,"Cows head, open mouth 9.jpg",.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924142919.jpg,Head,Normal Head,IMG20230924142919.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Open mouth with teeth 6.jpg,Head,Normal Head,Open mouth with teeth 6.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased-dental-pad-13_jpg.rf.fa38106adfb83382792814e236ee52cf.jpg,Head,Diseased Head,Diseased-dental-pad-13_jpg.rf.fa38106adfb83382792814e236ee52cf.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Cows-head-open-mouth-13_jpg.rf.cff4b3b32f1112df268370430ab08ebf.jpg,Head,Diseased Head,Cows-head-open-mouth-13_jpg.rf.cff4b3b32f1112df268370430ab08ebf.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-30-_jpg.rf.46fe7725df311ae1ccaad2283e2b9fcf.jpg,Head,Diseased Head,-30-_jpg.rf.46fe7725df311ae1ccaad2283e2b9fcf.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230723065223.jpg,Head,Normal Head,IMG20230723065223.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230723074917.jpg,Head,Normal Head,IMG20230723074917.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\mouth4_days_3JMOKWM.jpg,Head,Diseased Head,mouth4_days_3JMOKWM.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD_001_jpg.rf.80292dc75269b6d4794de313db816e33.jpg,Head,Diseased Head,FMD_001_jpg.rf.80292dc75269b6d4794de313db816e33.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0219-00.jpg,Head,Normal Head,IMG_0219-00.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\tongue-4-5_days_1WM.jpg,Head,Diseased Head,tongue-4-5_days_1WM.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\RedDanecattle62.jpg,Head,Normal Head,RedDanecattle62.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD__10_jpg.rf.95e0d3028dbf774651910f7ed9399dfc.jpg,Head,Diseased Head,FMD__10_jpg.rf.95e0d3028dbf774651910f7ed9399dfc.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230807185607.jpg,Head,Normal Head,IMG20230807185607.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\mouth WM.jpg,Head,Diseased Head,mouth WM.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-23-_jpg.rf.99abd59b00f85ee22dd4ed4f89589a68.jpg,Head,Diseased Head,-23-_jpg.rf.99abd59b00f85ee22dd4ed4f89589a68.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\sapi_g_5.jpg,Head,Normal Head,sapi_g_5.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Drooling cow 4.jpg,Head,Diseased Head,Drooling cow 4.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD_3_jpg.rf.fee2f0d9f7b5e3f59f9f0de6253e5286.jpg,Head,Diseased Head,FMD_3_jpg.rf.fee2f0d9f7b5e3f59f9f0de6253e5286.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230319092111-02.jpg,Head,Normal Head,IMG20230319092111-02.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\P1010981WM.jpg,Head,Diseased Head,P1010981WM.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230528085816_01.jpg,Head,Normal Head,IMG20230528085816_01.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924150620.jpg,Head,Normal Head,IMG20230924150620.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Non-diseased-muzzle-6-with-tongue_jpg.rf.5671bd0bb07947a3a9d465f460e5377b.jpg,Head,Normal Head,Non-diseased-muzzle-6-with-tongue_jpg.rf.5671bd0bb07947a3a9d465f460e5377b.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\11_foot_mouth_disease_mpi_jpg.rf.76e8175bb4d764d636e7de5d0371a907.jpg,Head,Diseased Head,11_foot_mouth_disease_mpi_jpg.rf.76e8175bb4d764d636e7de5d0371a907.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\cm2-2WM-1.jpg,Head,Diseased Head,cm2-2WM-1.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230723072855.jpg,Head,Normal Head,IMG20230723072855.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_20230319_071224-02.jpg,Head,Normal Head,IMG_20230319_071224-02.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230727071331.jpg,Head,Normal Head,IMG20230727071331.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\5198047901_73ee826532_bWM.jpg,Head,Diseased Head,5198047901_73ee826532_bWM.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-10-_jpg.rf.41fcfc66abb914e0e35794d81ad6c11a.jpg,Head,Diseased Head,-10-_jpg.rf.41fcfc66abb914e0e35794d81ad6c11a.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230723072438.jpg,Head,Normal Head,IMG20230723072438.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD_22_jpg.rf.0a249c2451a8767460070a0d7621743b.jpg,Head,Diseased Head,FMD_22_jpg.rf.0a249c2451a8767460070a0d7621743b.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\foot-and-mougth-4-_png.rf.77b3e7fb45a2717bdf3f69d67f2d3ae4.jpg,Head,Diseased Head,foot-and-mougth-4-_png.rf.77b3e7fb45a2717bdf3f69d67f2d3ae4.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_20230319_070621-00.jpg,Head,Normal Head,IMG_20230319_070621-00.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230826165055.jpg,Head,Normal Head,IMG20230826165055.jpg,.jpg,0,0,train
+"c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Cows head, open mouth 2.jpg",Head,Normal Head,"Cows head, open mouth 2.jpg",.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-17-_jpg.rf.4afd6b88ba370293b53382e1e05057e6.jpg,Head,Diseased Head,-17-_jpg.rf.4afd6b88ba370293b53382e1e05057e6.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_20230319_075722-01.jpg,Head,Normal Head,IMG_20230319_075722-01.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\foot-and-mougth-13-_jpg.rf.0b5c3c5579a2649608d2c87098602f29.jpg,Head,Diseased Head,foot-and-mougth-13-_jpg.rf.0b5c3c5579a2649608d2c87098602f29.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0129-02.jpg,Head,Normal Head,IMG_0129-02.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_20230319_090020-00.jpg,Head,Normal Head,IMG_20230319_090020-00.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Non-diseased-muzzle-9_jpg.rf.1c87c5fda40860804aaf70dcb9a8688b.jpg,Head,Normal Head,Non-diseased-muzzle-9_jpg.rf.1c87c5fda40860804aaf70dcb9a8688b.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\sapi_t_6.jpg,Head,Normal Head,sapi_t_6.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\mouth_5-7_days_2WM.jpg,Head,Diseased Head,mouth_5-7_days_2WM.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Ayrshirecattle43.jpg,Head,Normal Head,Ayrshirecattle43.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased-dental-pad-8_jpg.rf.6b4b66fa7efc3b201d5b8422f44ea38e.jpg,Head,Diseased Head,Diseased-dental-pad-8_jpg.rf.6b4b66fa7efc3b201d5b8422f44ea38e.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_20230319_073047-02.jpg,Head,Normal Head,IMG_20230319_073047-02.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased-dental-pad-9_jpg.rf.9f242c8cf130bb30c4d8563dd8ad6e3d.jpg,Head,Diseased Head,Diseased-dental-pad-9_jpg.rf.9f242c8cf130bb30c4d8563dd8ad6e3d.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased-dental-pad-51_jpg.rf.55b6302f97782dade28a0e12301af2e4.jpg,Head,Diseased Head,Diseased-dental-pad-51_jpg.rf.55b6302f97782dade28a0e12301af2e4.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\SRm 2-3d-1WM-1.jpg,Head,Diseased Head,SRm 2-3d-1WM-1.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Lumpy_Skin_268.png,Head,Diseased Head,Lumpy_Skin_268.png,.png,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\foot-and-mougth-32-_png_jpg.rf.27db554e5bb33175a079ef0b87d97beb.jpg,Head,Diseased Head,foot-and-mougth-32-_png_jpg.rf.27db554e5bb33175a079ef0b87d97beb.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230826171609.jpg,Head,Normal Head,IMG20230826171609.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230723065655.jpg,Head,Normal Head,IMG20230723065655.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\sapi_k_7.jpg,Head,Normal Head,sapi_k_7.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\foot-and-mougth-7-_jpeg.rf.51e605b8244d418b0f99924b9c84eee8.jpg,Head,Diseased Head,foot-and-mougth-7-_jpeg.rf.51e605b8244d418b0f99924b9c84eee8.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\BrownSwisscattle126_c.jpg,Head,Normal Head,BrownSwisscattle126_c.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased-dental-pad-5_jpg.rf.7969ead9ddf272dd9c770d043ffde4bf.jpg,Head,Diseased Head,Diseased-dental-pad-5_jpg.rf.7969ead9ddf272dd9c770d043ffde4bf.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD__6_jpg.rf.f3beb55bfde9bfe200da56799eac0639.jpg,Head,Diseased Head,FMD__6_jpg.rf.f3beb55bfde9bfe200da56799eac0639.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_20230319_071051-02.jpg,Head,Normal Head,IMG_20230319_071051-02.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_20230319_072001-01.jpg,Head,Normal Head,IMG_20230319_072001-01.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Ayrshirecattle134.jpg,Head,Normal Head,Ayrshirecattle134.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924145908.jpg,Head,Normal Head,IMG20230924145908.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924142553.jpg,Head,Normal Head,IMG20230924142553.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230807185715.jpg,Head,Normal Head,IMG20230807185715.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230727070522.jpg,Head,Normal Head,IMG20230727070522.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\BrownSwisscattle32.jpg,Head,Normal Head,BrownSwisscattle32.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_20230319_073540-00.jpg,Head,Normal Head,IMG_20230319_073540-00.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased-dental-pad-24_jpg.rf.43fd117d083d45a3f5e45edc3359c589.jpg,Head,Diseased Head,Diseased-dental-pad-24_jpg.rf.43fd117d083d45a3f5e45edc3359c589.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Non-diseased muzzle 32 with tongue.jpg,Head,Normal Head,Non-diseased muzzle 32 with tongue.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Cows-head-open-mouth-15_jpg.rf.4adcfb7273851af643bafd2d4f269ca6.jpg,Head,Diseased Head,Cows-head-open-mouth-15_jpg.rf.4adcfb7273851af643bafd2d4f269ca6.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230727070842.jpg,Head,Normal Head,IMG20230727070842.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0332-02.jpg,Head,Normal Head,IMG_0332-02.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0119-00.jpg,Head,Normal Head,IMG_0119-00.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\foot-and-mougth-23-_jpg.rf.c8bdfe934aab41cab9f187980be016fe.jpg,Head,Diseased Head,foot-and-mougth-23-_jpg.rf.c8bdfe934aab41cab9f187980be016fe.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_20230319_071312-00.jpg,Head,Normal Head,IMG_20230319_071312-00.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230723072809.jpg,Head,Normal Head,IMG20230723072809.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased lower lip mucosa 11.jpg,Head,Diseased Head,Diseased lower lip mucosa 11.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\sapi_s_6.jpg,Head,Normal Head,sapi_s_6.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD_2_jpg.rf.22ac9a13eabdf1d1bc7cedcb1991441c.jpg,Head,Diseased Head,FMD_2_jpg.rf.22ac9a13eabdf1d1bc7cedcb1991441c.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\5_png.rf.90fefac296f21df7398923c8d506f7d3.jpg,Head,Diseased Head,5_png.rf.90fefac296f21df7398923c8d506f7d3.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230723072502.jpg,Head,Normal Head,IMG20230723072502.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\sapi_q_4.jpg,Head,Normal Head,sapi_q_4.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Underside of tongue 1.jpeg,Head,Normal Head,Underside of tongue 1.jpeg,.jpeg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased muzzle 3.jpg,Head,Diseased Head,Diseased muzzle 3.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\BB19012024175102_front_png_jpg.rf.03ec3748dbdb4481c6f924ea02fa96b2.jpg,Head,Normal Head,BB19012024175102_front_png_jpg.rf.03ec3748dbdb4481c6f924ea02fa96b2.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Lumpy_Skin_67.png,Head,Diseased Head,Lumpy_Skin_67.png,.png,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Dorsal side of tongue 2.jpg,Head,Normal Head,Dorsal side of tongue 2.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased tongue 28.jpg,Head,Diseased Head,Diseased tongue 28.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-42-_jpg.rf.f52d62ec94cf7cfa1df1c0aeef0f57f3.jpg,Head,Diseased Head,-42-_jpg.rf.f52d62ec94cf7cfa1df1c0aeef0f57f3.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD_008_jpg.rf.486a03cbb2d68995fce523dd8e9d23ca.jpg,Head,Diseased Head,FMD_008_jpg.rf.486a03cbb2d68995fce523dd8e9d23ca.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD-cattle-15-Copy-10-_jpg.rf.8ea6830a3288b2b33bfe43a6d1be57bd.jpg,Head,Diseased Head,FMD-cattle-15-Copy-10-_jpg.rf.8ea6830a3288b2b33bfe43a6d1be57bd.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\RedDanecattle59.jpg,Head,Normal Head,RedDanecattle59.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924143438.jpg,Head,Normal Head,IMG20230924143438.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230723074913.jpg,Head,Normal Head,IMG20230723074913.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Drooling cow 2.jpg,Head,Diseased Head,Drooling cow 2.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230723074019.jpg,Head,Normal Head,IMG20230723074019.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\sapi_j_5.jpg,Head,Normal Head,sapi_j_5.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_9938-00.jpg,Head,Normal Head,IMG_9938-00.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Lumpy_Skin_313.png,Head,Diseased Head,Lumpy_Skin_313.png,.png,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230723072421.jpg,Head,Normal Head,IMG20230723072421.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0014-01.jpg,Head,Normal Head,IMG_0014-01.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Lumpy_Skin_232_png.rf.275485854dc17f6b41749f1490a2f9df.jpg,Head,Diseased Head,Lumpy_Skin_232_png.rf.275485854dc17f6b41749f1490a2f9df.jpg,.jpg,1,0,train
+"c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Cows head, open mouth 6.jpg",Head,Normal Head,"Cows head, open mouth 6.jpg",.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924145209.jpg,Head,Normal Head,IMG20230924145209.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-16-_jpg.rf.469ae7b9022b798440d20a387f714fad.jpg,Head,Diseased Head,-16-_jpg.rf.469ae7b9022b798440d20a387f714fad.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Lumpy-skin-768x384-1_jpg.rf.4ef69c129dd0a1aa095d96c769e960c3.jpg,Head,Diseased Head,Lumpy-skin-768x384-1_jpg.rf.4ef69c129dd0a1aa095d96c769e960c3.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased tongue 15.jpg,Head,Diseased Head,Diseased tongue 15.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230723065601.jpg,Head,Normal Head,IMG20230723065601.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased lower lip mucosa 10.jpg,Head,Diseased Head,Diseased lower lip mucosa 10.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\foot-and-mougth-5-_jpeg_jpg.rf.4d7648af085a8fbf87123f48b6a69d47.jpg,Head,Diseased Head,foot-and-mougth-5-_jpeg_jpg.rf.4d7648af085a8fbf87123f48b6a69d47.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-32-_jpg.rf.0d7187c3a1ee018df9ce79da5b57463d.jpg,Head,Diseased Head,-32-_jpg.rf.0d7187c3a1ee018df9ce79da5b57463d.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD_022_jpg.rf.0595dae583d437a482e5dcf60798e392 - Copy.jpg,Head,Diseased Head,FMD_022_jpg.rf.0595dae583d437a482e5dcf60798e392 - Copy.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230727070510.jpg,Head,Normal Head,IMG20230727070510.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\cm4-5-1WM-1.jpg,Head,Diseased Head,cm4-5-1WM-1.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Non-diseased-muzzle-8_jpg.rf.52264e31428f7f9a793d4414f53cc57d.jpg,Head,Normal Head,Non-diseased-muzzle-8_jpg.rf.52264e31428f7f9a793d4414f53cc57d.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\tongue_2-3_days_WM.jpg,Head,Diseased Head,tongue_2-3_days_WM.jpg,.jpg,1,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\sapi_z_2.jpg,Head,Normal Head,sapi_z_2.jpg,.jpg,0,0,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\sapi_n_4.jpg,Head,Normal Head,sapi_n_4.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Non-diseased muzzle 28 with tongue.jpg,Head,Normal Head,Non-diseased muzzle 28 with tongue.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\4-day-lesions-steer-tongue-and-gum-_jpg.rf.729c255aa5151999a0b2c1c235e5c7e7.jpg,Head,Diseased Head,4-day-lesions-steer-tongue-and-gum-_jpg.rf.729c255aa5151999a0b2c1c235e5c7e7.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Underside of tongue 2.jpg,Head,Normal Head,Underside of tongue 2.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924145356.jpg,Head,Normal Head,IMG20230924145356.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230727070918.jpg,Head,Normal Head,IMG20230727070918.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD_026_jpg.rf.487494b67d3c5fc4d4cb6dd18ab95d52 - Copy.jpg,Head,Diseased Head,FMD_026_jpg.rf.487494b67d3c5fc4d4cb6dd18ab95d52 - Copy.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-11-_jpg.rf.c0738d766686485afec6f2ce4e104526.jpg,Head,Diseased Head,-11-_jpg.rf.c0738d766686485afec6f2ce4e104526.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\mouth_4-5_days_7WM.jpg,Head,Diseased Head,mouth_4-5_days_7WM.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\foot-and-mougth-3-_jpeg.rf.14216f5ce06d416f1bd259e9d0b7eaa4.jpg,Head,Diseased Head,foot-and-mougth-3-_jpeg.rf.14216f5ce06d416f1bd259e9d0b7eaa4.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\cattle-441_IMG20230727065011-02.jpg,Head,Normal Head,cattle-441_IMG20230727065011-02.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230319090500-00.jpg,Head,Normal Head,IMG20230319090500-00.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased dental pad 30.jpg,Head,Diseased Head,Diseased dental pad 30.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\img1255.jpg,Head,Diseased Head,img1255.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230723065540.jpg,Head,Normal Head,IMG20230723065540.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230807184653.jpg,Head,Normal Head,IMG20230807184653.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\imgs009.jpg,Head,Normal Head,imgs009.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\imgs010.jpg,Head,Normal Head,imgs010.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Open mouth with teeth 3.jpg,Head,Normal Head,Open mouth with teeth 3.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Lumpy_Skin_81.png,Head,Diseased Head,Lumpy_Skin_81.png,.png,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Lumpy_Skin_176.png,Head,Diseased Head,Lumpy_Skin_176.png,.png,1,0,val
+"c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Cows head, open mouth 8.jpg",Head,Normal Head,"Cows head, open mouth 8.jpg",.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\sapi_u_1.jpg,Head,Normal Head,sapi_u_1.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\BrownSwisscattle149_c.jpg,Head,Normal Head,BrownSwisscattle149_c.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\BB06022024123803_front-png_jpg.rf.8409a51eb624142cd362309ace1c3602.jpg,Head,Normal Head,BB06022024123803_front-png_jpg.rf.8409a51eb624142cd362309ace1c3602.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-29-_jpg.rf.04322c53549fe03d89b2710a6238f0e6.jpg,Head,Diseased Head,-29-_jpg.rf.04322c53549fe03d89b2710a6238f0e6.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD_11_jpg.rf.fd09ec987cad72e6475a1ab599468f27.jpg,Head,Diseased Head,FMD_11_jpg.rf.fd09ec987cad72e6475a1ab599468f27.jpg,.jpg,1,0,val
+"c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Cows head, open mouth 19.jpg",Head,Normal Head,"Cows head, open mouth 19.jpg",.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased dental pad 20.jpg,Head,Diseased Head,Diseased dental pad 20.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased dental pad 50.jpg,Head,Diseased Head,Diseased dental pad 50.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_20230319_081316__01-01.jpg,Head,Normal Head,IMG_20230319_081316__01-01.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924144808.jpg,Head,Normal Head,IMG20230924144808.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD__1_jpg.rf.0b6fa9d8bc9b71b9eb15a84b61ab3724.jpg,Head,Diseased Head,FMD__1_jpg.rf.0b6fa9d8bc9b71b9eb15a84b61ab3724.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Lumpy_Skin_291_png.rf.5f08063dcd86f49a807fc38d3c5c1f9a.jpg,Head,Diseased Head,Lumpy_Skin_291_png.rf.5f08063dcd86f49a807fc38d3c5c1f9a.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230727070510-01.jpg,Head,Normal Head,IMG20230727070510-01.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230528073800.jpg,Head,Normal Head,IMG20230528073800.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0687-01.jpg,Head,Normal Head,IMG_0687-01.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\day2lesionWM-1.jpg,Head,Diseased Head,day2lesionWM-1.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Non-diseased muzzle 40 with tongue.jpg,Head,Normal Head,Non-diseased muzzle 40 with tongue.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\5-day-old-lesions-on-cattle-gums_png.rf.cf9a50e94b0fb732c89994b937017016.jpg,Head,Diseased Head,5-day-old-lesions-on-cattle-gums_png.rf.cf9a50e94b0fb732c89994b937017016.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0358-02.jpg,Head,Normal Head,IMG_0358-02.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased tongue 3.jpg,Head,Diseased Head,Diseased tongue 3.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\BB02022024173547_front-png_jpg.rf.c094530969f19fc80bbc61ebd7425d85.jpg,Head,Normal Head,BB02022024173547_front-png_jpg.rf.c094530969f19fc80bbc61ebd7425d85.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Lumpy_Skin_172.png,Head,Diseased Head,Lumpy_Skin_172.png,.png,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0750-02.jpg,Head,Normal Head,IMG_0750-02.jpg,.jpg,0,0,val
+"c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\2 day vesicle, steer, foot.jpg",Head,Diseased Head,"2 day vesicle, steer, foot.jpg",.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\imgs024.jpg,Head,Normal Head,imgs024.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\foot-and-mougth-4-_jpeg_jpg.rf.de2e58c7c1b6d890ad78d40b300cdded.jpg,Head,Diseased Head,foot-and-mougth-4-_jpeg_jpg.rf.de2e58c7c1b6d890ad78d40b300cdded.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-12-_jpg.rf.35780a7e0b23f958085cf41bb08ae5ee.jpg,Head,Diseased Head,-12-_jpg.rf.35780a7e0b23f958085cf41bb08ae5ee.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\foot-and-mougth-16-_jpeg.rf.307f3e9d203125ba85a170329c59d3a9.jpg,Head,Diseased Head,foot-and-mougth-16-_jpeg.rf.307f3e9d203125ba85a170329c59d3a9.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_1052-00.jpg,Head,Normal Head,IMG_1052-00.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230528074815.jpg,Head,Normal Head,IMG20230528074815.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD__5_jpg.rf.d8d47f461fd207901d742de0a52e14ea.jpg,Head,Diseased Head,FMD__5_jpg.rf.d8d47f461fd207901d742de0a52e14ea.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924150036.jpg,Head,Normal Head,IMG20230924150036.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230723065527.jpg,Head,Normal Head,IMG20230723065527.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Lumpy_Skin_60.png,Head,Diseased Head,Lumpy_Skin_60.png,.png,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230723074613.jpg,Head,Normal Head,IMG20230723074613.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\foot-and-mougth-17-_jpeg.rf.0b5f147c70f94a8b30d303116584b5a8.jpg,Head,Diseased Head,foot-and-mougth-17-_jpeg.rf.0b5f147c70f94a8b30d303116584b5a8.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\BB19012024102736_front_png_jpg.rf.8174db804f6a05ff9bdf43134c76770f.jpg,Head,Normal Head,BB19012024102736_front_png_jpg.rf.8174db804f6a05ff9bdf43134c76770f.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased lower lip mucosa 5.jpg,Head,Diseased Head,Diseased lower lip mucosa 5.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_20230319_080429-02.jpg,Head,Normal Head,IMG_20230319_080429-02.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD_011_jpg.rf.1c86a2ffac55100bdd1335975abcb0e5.jpg,Head,Diseased Head,FMD_011_jpg.rf.1c86a2ffac55100bdd1335975abcb0e5.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Drooling cow 5.jpg,Head,Diseased Head,Drooling cow 5.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924144737.jpg,Head,Normal Head,IMG20230924144737.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230727071335.jpg,Head,Normal Head,IMG20230727071335.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230807185113.jpg,Head,Normal Head,IMG20230807185113.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_20230319_130138-01.jpg,Head,Normal Head,IMG_20230319_130138-01.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD_024_jpg.rf.27e724672d5a347279655afca92ddd6d - Copy.jpg,Head,Diseased Head,FMD_024_jpg.rf.27e724672d5a347279655afca92ddd6d - Copy.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-40-_jpg.rf.c21575ba66300e6e46eba90327a7a1ff.jpg,Head,Diseased Head,-40-_jpg.rf.c21575ba66300e6e46eba90327a7a1ff.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0011-00.jpg,Head,Normal Head,IMG_0011-00.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Ayrshirecattle95.jpg,Head,Normal Head,Ayrshirecattle95.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD_039_jpg.rf.2ef00a33811e675c0484ad7a3e86c657.jpg,Head,Diseased Head,FMD_039_jpg.rf.2ef00a33811e675c0484ad7a3e86c657.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\sapi_w_16.jpg,Head,Normal Head,sapi_w_16.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924145807.jpg,Head,Normal Head,IMG20230924145807.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\fmd-01_0_jpg.rf.9903d29cf80d0aa43ffa6117602e7660.jpg,Head,Diseased Head,fmd-01_0_jpg.rf.9903d29cf80d0aa43ffa6117602e7660.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Lumpy_Skin_240.png,Head,Diseased Head,Lumpy_Skin_240.png,.png,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0647-00.jpg,Head,Normal Head,IMG_0647-00.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924142950.jpg,Head,Normal Head,IMG20230924142950.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230319150425-01.jpg,Head,Normal Head,IMG20230319150425-01.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\HolsteinFriesiancattle112.jpg,Head,Normal Head,HolsteinFriesiancattle112.jpg,.jpg,0,0,val
+"c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\5 day vesicle, steer, foot.jpg",Head,Diseased Head,"5 day vesicle, steer, foot.jpg",.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Non-diseased muzzle 36 with tongue.jpg,Head,Normal Head,Non-diseased muzzle 36 with tongue.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\sapi_p_15.jpg,Head,Normal Head,sapi_p_15.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924142746.jpg,Head,Normal Head,IMG20230924142746.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230528083837.jpg,Head,Normal Head,IMG20230528083837.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased dental pad 48.jpg,Head,Diseased Head,Diseased dental pad 48.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_8734-01.jpg,Head,Normal Head,IMG_8734-01.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-33-_jpg.rf.40846681f33019bb2ce036dcb06e24fd.jpg,Head,Diseased Head,-33-_jpg.rf.40846681f33019bb2ce036dcb06e24fd.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0147-01.jpg,Head,Normal Head,IMG_0147-01.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD__16_jpg.rf.24c7bfb9a118263b2910fa1fd51252a6.jpg,Head,Diseased Head,FMD__16_jpg.rf.24c7bfb9a118263b2910fa1fd51252a6.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924144951.jpg,Head,Normal Head,IMG20230924144951.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Dorsal side of tongue 3.jpg,Head,Normal Head,Dorsal side of tongue 3.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\imgs015.jpg,Head,Normal Head,imgs015.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-38-_jpg.rf.4a188c0d8c773591f0cf3bdea0d98ae4.jpg,Head,Diseased Head,-38-_jpg.rf.4a188c0d8c773591f0cf3bdea0d98ae4.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\sapi_w_3.jpg,Head,Normal Head,sapi_w_3.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924150505.jpg,Head,Normal Head,IMG20230924150505.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD_1_jpg.rf.fd1307bd712c06662329341ee03ce9a9.jpg,Head,Diseased Head,FMD_1_jpg.rf.fd1307bd712c06662329341ee03ce9a9.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\imgs002.jpg,Head,Normal Head,imgs002.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924143226_01.jpg,Head,Normal Head,IMG20230924143226_01.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased-dental-pad-15_jpg.rf.3ee9bdf89acb54d69a8bd49d02899cd7.jpg,Head,Diseased Head,Diseased-dental-pad-15_jpg.rf.3ee9bdf89acb54d69a8bd49d02899cd7.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD__7_jpg.rf.5f61ff9a9357677c0a9439ccfc2efe50.jpg,Head,Diseased Head,FMD__7_jpg.rf.5f61ff9a9357677c0a9439ccfc2efe50.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD_124_jpg.rf.5b4aa679c754f7521812bcdae5de69eb.jpg,Head,Diseased Head,FMD_124_jpg.rf.5b4aa679c754f7521812bcdae5de69eb.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\3-Figure6-1_png.rf.a46587f55b886b922f4bec8b1c4df9ce.jpg,Head,Diseased Head,3-Figure6-1_png.rf.a46587f55b886b922f4bec8b1c4df9ce.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased-dental-pad-26_jpg.rf.b6abe0f9b12a95ed09c194aa4c00676e.jpg,Head,Diseased Head,Diseased-dental-pad-26_jpg.rf.b6abe0f9b12a95ed09c194aa4c00676e.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924142654.jpg,Head,Normal Head,IMG20230924142654.jpg,.jpg,0,0,val
+"c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\2 day vesicle, steer, ruptured, tongue and lip.jpg",Head,Diseased Head,"2 day vesicle, steer, ruptured, tongue and lip.jpg",.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased dental pad 54.jpg,Head,Diseased Head,Diseased dental pad 54.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230727071344.jpg,Head,Normal Head,IMG20230727071344.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\mosap-650-_jpg.rf.20366ab418f02a51d7c1a8966f56357c.jpg,Head,Diseased Head,mosap-650-_jpg.rf.20366ab418f02a51d7c1a8966f56357c.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Ayrshirecattle135.jpg,Head,Normal Head,Ayrshirecattle135.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0158-01.jpg,Head,Normal Head,IMG_0158-01.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased tongue 14.jpg,Head,Diseased Head,Diseased tongue 14.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230723065428_01.jpg,Head,Normal Head,IMG20230723065428_01.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Lumpy_Skin_234.png,Head,Diseased Head,Lumpy_Skin_234.png,.png,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230723074943.jpg,Head,Normal Head,IMG20230723074943.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230528074515.jpg,Head,Normal Head,IMG20230528074515.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased-dental-pad-25_jpg.rf.ab65220e0fc42f9c9e8a794123b756b9.jpg,Head,Diseased Head,Diseased-dental-pad-25_jpg.rf.ab65220e0fc42f9c9e8a794123b756b9.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD_12_jpg.rf.ebcd761b20d5a2c9317b0bb1cb67b70e.jpg,Head,Diseased Head,FMD_12_jpg.rf.ebcd761b20d5a2c9317b0bb1cb67b70e.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230826171541.jpg,Head,Normal Head,IMG20230826171541.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\BB02022024173235_front-png_jpg.rf.dcb32ea5ec98ac6cf2306411b8551fef.jpg,Head,Normal Head,BB02022024173235_front-png_jpg.rf.dcb32ea5ec98ac6cf2306411b8551fef.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\BrownSwisscattle56.jpg,Head,Normal Head,BrownSwisscattle56.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Non-diseased-muzzle-5-with-tongue_jpg.rf.dec1d3e61e8acc79e4e56e7afffe0903.jpg,Head,Normal Head,Non-diseased-muzzle-5-with-tongue_jpg.rf.dec1d3e61e8acc79e4e56e7afffe0903.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased-dental-pad-4_jpg.rf.5fd53ee77c0c463682b505a94dcbb93e.jpg,Head,Diseased Head,Diseased-dental-pad-4_jpg.rf.5fd53ee77c0c463682b505a94dcbb93e.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0553-01.jpg,Head,Normal Head,IMG_0553-01.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0139-00.jpg,Head,Normal Head,IMG_0139-00.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0107-00.jpg,Head,Normal Head,IMG_0107-00.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924142620.jpg,Head,Normal Head,IMG20230924142620.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Ayrshirecattle32.jpg,Head,Normal Head,Ayrshirecattle32.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\BB19012024165901_front_png_jpg.rf.d09f8d0a4f53a59bbd2c35d0f99471f0.jpg,Head,Normal Head,BB19012024165901_front_png_jpg.rf.d09f8d0a4f53a59bbd2c35d0f99471f0.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Ayrshirecattle51.jpg,Head,Normal Head,Ayrshirecattle51.jpg,.jpg,0,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD_10_jpg.rf.8c12d606ecf9e50b86844c124d980dd9.jpg,Head,Diseased Head,FMD_10_jpg.rf.8c12d606ecf9e50b86844c124d980dd9.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Lumpy_Skin_97.png,Head,Diseased Head,Lumpy_Skin_97.png,.png,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD_054_jpg.rf.46f289289c1ad13ce22384dfcf59b008.jpg,Head,Diseased Head,FMD_054_jpg.rf.46f289289c1ad13ce22384dfcf59b008.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\foot-and-mougth-2-_jpeg.rf.f2c9b5f17afdc2e8bfe62ac6559fdcb8.jpg,Head,Diseased Head,foot-and-mougth-2-_jpeg.rf.f2c9b5f17afdc2e8bfe62ac6559fdcb8.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\LS-25_JPG_jpg.rf.5a2f8de981548e45d7affae89c4e0fe5.jpg,Head,Diseased Head,LS-25_JPG_jpg.rf.5a2f8de981548e45d7affae89c4e0fe5.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased tongue 4.jpg,Head,Diseased Head,Diseased tongue 4.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased-dental-pad-10_jpg.rf.c09f9956639c9383acd5fe5cd7649e0a.jpg,Head,Diseased Head,Diseased-dental-pad-10_jpg.rf.c09f9956639c9383acd5fe5cd7649e0a.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD_116_jpg.rf.f87c74e30543605575cf4c2ab0e4d376.jpg,Head,Diseased Head,FMD_116_jpg.rf.f87c74e30543605575cf4c2ab0e4d376.jpg,.jpg,1,0,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_1035-01.jpg,Head,Normal Head,IMG_1035-01.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-34-_jpg.rf.18ce555ef3a3f76906253af97710bea3.jpg,Head,Diseased Head,-34-_jpg.rf.18ce555ef3a3f76906253af97710bea3.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-44-_jpg.rf.1cfc846a0b30b28ae87d0ce326117a20.jpg,Head,Diseased Head,-44-_jpg.rf.1cfc846a0b30b28ae87d0ce326117a20.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-65-_jpg.rf.39a18d3a88e5b805c5b93b825e535149.jpg,Head,Diseased Head,-65-_jpg.rf.39a18d3a88e5b805c5b93b825e535149.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0476-00.jpg,Head,Normal Head,IMG_0476-00.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230727071105_01.jpg,Head,Normal Head,IMG20230727071105_01.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924143016.jpg,Head,Normal Head,IMG20230924143016.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Open mouth with teeth 4.jpg,Head,Normal Head,Open mouth with teeth 4.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Ayrshirecattle22.jpg,Head,Normal Head,Ayrshirecattle22.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230727070500.jpg,Head,Normal Head,IMG20230727070500.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD-cattle-12-Copy-10-_jpg.rf.8380f5c0c6fbdab92f807865d142a213.jpg,Head,Diseased Head,FMD-cattle-12-Copy-10-_jpg.rf.8380f5c0c6fbdab92f807865d142a213.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230723074852.jpg,Head,Normal Head,IMG20230723074852.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-22-_jpg.rf.9e7242469136e509b40735cb1db64d3a.jpg,Head,Diseased Head,-22-_jpg.rf.9e7242469136e509b40735cb1db64d3a.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD-bov-mouth-2-Copy-10-_jpg.rf.58f303588be0dbdc905eb1dfd29281df.jpg,Head,Diseased Head,FMD-bov-mouth-2-Copy-10-_jpg.rf.58f303588be0dbdc905eb1dfd29281df.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\HolsteinFriesiancattle75.jpg,Head,Normal Head,HolsteinFriesiancattle75.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\sapi_l_6.jpg,Head,Normal Head,sapi_l_6.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_20230319_075434-02.jpg,Head,Normal Head,IMG_20230319_075434-02.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\sapi_o_5.jpg,Head,Normal Head,sapi_o_5.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Normal_Skin_708.png,Head,Normal Head,Normal_Skin_708.png,.png,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\cm 5-7-2 (1)WM.jpg,Head,Diseased Head,cm 5-7-2 (1)WM.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_20230319_080112-02.jpg,Head,Normal Head,IMG_20230319_080112-02.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230826171326.jpg,Head,Normal Head,IMG20230826171326.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD_120_jpg.rf.78c543f4b218a18f1155f2b6d32519f0.jpg,Head,Diseased Head,FMD_120_jpg.rf.78c543f4b218a18f1155f2b6d32519f0.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_20230319_095038-01.jpg,Head,Normal Head,IMG_20230319_095038-01.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_1013-01.jpg,Head,Normal Head,IMG_1013-01.jpg,.jpg,0,0,test
+"c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Cows head, open mouth 10.jpg",Head,Normal Head,"Cows head, open mouth 10.jpg",.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Ayrshirecattle42.jpg,Head,Normal Head,Ayrshirecattle42.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230723073949.jpg,Head,Normal Head,IMG20230723073949.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\BB19012024102736_front-1-_png_jpg.rf.c863fd13624f42503a088becf5bba76b.jpg,Head,Normal Head,BB19012024102736_front-1-_png_jpg.rf.c863fd13624f42503a088becf5bba76b.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\BB02022024180604_front-png_jpg.rf.b893359967e7305b5ece9107f8659c5b.jpg,Head,Normal Head,BB02022024180604_front-png_jpg.rf.b893359967e7305b5ece9107f8659c5b.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230807185356.jpg,Head,Normal Head,IMG20230807185356.jpg,.jpg,0,0,test
+"c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Cows head, open mouth 5.jpg",Head,Normal Head,"Cows head, open mouth 5.jpg",.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\HolsteinFriesiancattle143.jpg,Head,Normal Head,HolsteinFriesiancattle143.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230528075440.jpg,Head,Normal Head,IMG20230528075440.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\BrownSwisscattle52.jpg,Head,Normal Head,BrownSwisscattle52.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\foot-and-mougth-18-_jpeg.rf.4ec672b67749462655e928b28002ac32.jpg,Head,Diseased Head,foot-and-mougth-18-_jpeg.rf.4ec672b67749462655e928b28002ac32.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased dental pad 16.jpg,Head,Diseased Head,Diseased dental pad 16.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Non-diseased muzzle 33 with tongue.jpg,Head,Normal Head,Non-diseased muzzle 33 with tongue.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924144109_01.jpg,Head,Normal Head,IMG20230924144109_01.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\foot-and-mougth-21-_jpg.rf.cffe93aefedf480b7efc9a2359f668b2.jpg,Head,Diseased Head,foot-and-mougth-21-_jpg.rf.cffe93aefedf480b7efc9a2359f668b2.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\HolsteinFriesiancattle149.jpg,Head,Normal Head,HolsteinFriesiancattle149.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\tongue_4-5_days_WM.jpg,Head,Diseased Head,tongue_4-5_days_WM.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230723074911_01.jpg,Head,Normal Head,IMG20230723074911_01.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased dental pad 2.jpg,Head,Diseased Head,Diseased dental pad 2.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\image_UHJvZHVjdDoxNTI3_c1753438_jpg.rf.6ccc7139aa73fcc86491e36289648c61.jpg,Head,Normal Head,image_UHJvZHVjdDoxNTI3_c1753438_jpg.rf.6ccc7139aa73fcc86491e36289648c61.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Normal_Skin_702.png,Head,Normal Head,Normal_Skin_702.png,.png,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Non-diseased-muzzle-8-with-tongue_jpg.rf.9ec4bb5b3feea510f3e04e5a41af66f5.jpg,Head,Normal Head,Non-diseased-muzzle-8-with-tongue_jpg.rf.9ec4bb5b3feea510f3e04e5a41af66f5.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924144701.jpg,Head,Normal Head,IMG20230924144701.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\imgs027.jpg,Head,Normal Head,imgs027.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Ayrshirecattle102.jpg,Head,Normal Head,Ayrshirecattle102.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\tongue_4-5_daysWM.jpg,Head,Diseased Head,tongue_4-5_daysWM.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230723072626.jpg,Head,Normal Head,IMG20230723072626.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD_9_jpg.rf.99d6d83cb7218f70ccc02b134605e1b9.jpg,Head,Diseased Head,FMD_9_jpg.rf.99d6d83cb7218f70ccc02b134605e1b9.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Lumpy_Skin_219.png,Head,Diseased Head,Lumpy_Skin_219.png,.png,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230723074032.jpg,Head,Normal Head,IMG20230723074032.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\foot-and-mougth-1-_png_jpg.rf.5dfed1108ccd84628ca5d54174d4c58b.jpg,Head,Diseased Head,foot-and-mougth-1-_png_jpg.rf.5dfed1108ccd84628ca5d54174d4c58b.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-4-_jpg.rf.52998a361113ecad75ddb0569232dea2.jpg,Head,Diseased Head,-4-_jpg.rf.52998a361113ecad75ddb0569232dea2.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230727070456-02.jpg,Head,Normal Head,IMG20230727070456-02.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\BrownSwisscattle13.jpg,Head,Normal Head,BrownSwisscattle13.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924145733.jpg,Head,Normal Head,IMG20230924145733.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924143036.jpg,Head,Normal Head,IMG20230924143036.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\SRm 2d-2WM-1.jpg,Head,Diseased Head,SRm 2d-2WM-1.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\cm 14-1WM-1.jpg,Head,Diseased Head,cm 14-1WM-1.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\imgs012.jpg,Head,Normal Head,imgs012.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-20-_jpg.rf.ac8c961dc74f419a4828b437a21d02c8.jpg,Head,Diseased Head,-20-_jpg.rf.ac8c961dc74f419a4828b437a21d02c8.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0302-00.jpg,Head,Normal Head,IMG_0302-00.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0879-01.jpg,Head,Normal Head,IMG_0879-01.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\LS-23_JPG_jpg.rf.1838762df6aebc091471548178a1ea48.jpg,Head,Diseased Head,LS-23_JPG_jpg.rf.1838762df6aebc091471548178a1ea48.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Non-diseased muzzle 38 with tongue.jpg,Head,Normal Head,Non-diseased muzzle 38 with tongue.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230723074834_01.jpg,Head,Normal Head,IMG20230723074834_01.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924144239.jpg,Head,Normal Head,IMG20230924144239.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_20230319_072501-00.jpg,Head,Normal Head,IMG_20230319_072501-00.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\mouth_3_days_JMOK3WM.jpg,Head,Diseased Head,mouth_3_days_JMOK3WM.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_20230319_120728-00.jpg,Head,Normal Head,IMG_20230319_120728-00.jpg,.jpg,0,0,test
+"c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\1 day vesicle, cow, teat.jpg",Head,Diseased Head,"1 day vesicle, cow, teat.jpg",.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-18-_jpg.rf.aa6393910e10e2d897aa21428fdc7463.jpg,Head,Diseased Head,-18-_jpg.rf.aa6393910e10e2d897aa21428fdc7463.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-39-_jpg.rf.f0c414131b8f9e2c4df16e5cd4134fd4.jpg,Head,Diseased Head,-39-_jpg.rf.f0c414131b8f9e2c4df16e5cd4134fd4.jpg,.jpg,1,0,test
+"c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\2 day vesicle, steer, heel bulb, 2.jpg",Head,Diseased Head,"2 day vesicle, steer, heel bulb, 2.jpg",.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\img1270.jpg,Head,Diseased Head,img1270.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0317-01.jpg,Head,Normal Head,IMG_0317-01.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased muzzle 7.jpg,Head,Diseased Head,Diseased muzzle 7.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\foot-and-mougth-3-_jpg.rf.3613419e05c2d0b2ae3515b6bdd68f2c.jpg,Head,Diseased Head,foot-and-mougth-3-_jpg.rf.3613419e05c2d0b2ae3515b6bdd68f2c.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230807190148.jpg,Head,Normal Head,IMG20230807190148.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Lumpy_Skin_217.png,Head,Diseased Head,Lumpy_Skin_217.png,.png,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\BB19012024174918_front_png_jpg.rf.fea1570eb04cd9c95ce06be9ea634773.jpg,Head,Normal Head,BB19012024174918_front_png_jpg.rf.fea1570eb04cd9c95ce06be9ea634773.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0136-02.jpg,Head,Normal Head,IMG_0136-02.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Mouth_4-5_days_3WM.jpg,Head,Diseased Head,Mouth_4-5_days_3WM.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD-bov-mouth-14-Copy-10-_jpg.rf.93d0a781c5cccbe89c8b7c22763274a2.jpg,Head,Diseased Head,FMD-bov-mouth-14-Copy-10-_jpg.rf.93d0a781c5cccbe89c8b7c22763274a2.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\foot-and-mougth-28-_jpg.rf.7acaccf2beaf502fb70835aa5dc97980.jpg,Head,Diseased Head,foot-and-mougth-28-_jpg.rf.7acaccf2beaf502fb70835aa5dc97980.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\P1010999WM-1.jpg,Head,Diseased Head,P1010999WM-1.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\foot-and-mougth-14-_jpg.rf.04bb47f752219184e2821b98c5e6acfc.jpg,Head,Diseased Head,foot-and-mougth-14-_jpg.rf.04bb47f752219184e2821b98c5e6acfc.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\cm8-10-1WM-1.jpg,Head,Diseased Head,cm8-10-1WM-1.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0399-00.jpg,Head,Normal Head,IMG_0399-00.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\foot-and-mougth-16-_jpg.rf.bfa18c1b40df9b42dee512556ed408d1.jpg,Head,Diseased Head,foot-and-mougth-16-_jpg.rf.bfa18c1b40df9b42dee512556ed408d1.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\3-foot-mouth-disease-fmd-salivation-vesicles_jpg.rf.6f2bf9567ac7172684005cadfedb69c0.jpg,Head,Diseased Head,3-foot-mouth-disease-fmd-salivation-vesicles_jpg.rf.6f2bf9567ac7172684005cadfedb69c0.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0487-02.jpg,Head,Normal Head,IMG_0487-02.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\BrownSwisscattle28.jpg,Head,Normal Head,BrownSwisscattle28.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0143-02.jpg,Head,Normal Head,IMG_0143-02.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased tongue 20.jpg,Head,Diseased Head,Diseased tongue 20.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230727071052.jpg,Head,Normal Head,IMG20230727071052.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD_002_jpg.rf.edadca94ecbdf5668aef702f0a2a3153.jpg,Head,Diseased Head,FMD_002_jpg.rf.edadca94ecbdf5668aef702f0a2a3153.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230528072719.jpg,Head,Normal Head,IMG20230528072719.jpg,.jpg,0,0,test
+"c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Cows head, open mouth 1.jpeg",Head,Normal Head,"Cows head, open mouth 1.jpeg",.jpeg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\BrownSwisscattle109.jpg,Head,Normal Head,BrownSwisscattle109.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\img1065.jpg,Head,Diseased Head,img1065.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_20230319_072354-01.jpg,Head,Normal Head,IMG_20230319_072354-01.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230723072517.jpg,Head,Normal Head,IMG20230723072517.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\foot-and-mougth-2-_jpg.rf.ca32d38abd1e7a2dad291eb8ce8effef.jpg,Head,Diseased Head,foot-and-mougth-2-_jpg.rf.ca32d38abd1e7a2dad291eb8ce8effef.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Ayrshirecattle136.jpg,Head,Normal Head,Ayrshirecattle136.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\img1308.jpg,Head,Diseased Head,img1308.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\sapi_v_8.jpg,Head,Normal Head,sapi_v_8.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\HolsteinFriesiancattle91.jpg,Head,Normal Head,HolsteinFriesiancattle91.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD_27_jpg.rf.c669752a6c893fb14ef8329cc5a06c70 - Copy.jpg,Head,Diseased Head,FMD_27_jpg.rf.c669752a6c893fb14ef8329cc5a06c70 - Copy.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased-dental-pad-52_jpg.rf.b9f09aa0e5a6e0610b7fdb7dee89c418.jpg,Head,Diseased Head,Diseased-dental-pad-52_jpg.rf.b9f09aa0e5a6e0610b7fdb7dee89c418.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD_21_jpg.rf.7ac4b23dfd80c41c160b3daedf7d41dd.jpg,Head,Diseased Head,FMD_21_jpg.rf.7ac4b23dfd80c41c160b3daedf7d41dd.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\foot-and-mougth-10-_jpg.rf.1869f307d65e3e336675e447dad0f087.jpg,Head,Diseased Head,foot-and-mougth-10-_jpg.rf.1869f307d65e3e336675e447dad0f087.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0093-01.jpg,Head,Normal Head,IMG_0093-01.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased-dental-pad-49_jpg.rf.630f6dae0bff201e8001b531804a33f5.jpg,Head,Diseased Head,Diseased-dental-pad-49_jpg.rf.630f6dae0bff201e8001b531804a33f5.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Ayrshirecattle84.jpg,Head,Normal Head,Ayrshirecattle84.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-46-_jpg.rf.232545cdf441b26a2727b71035b9864f.jpg,Head,Diseased Head,-46-_jpg.rf.232545cdf441b26a2727b71035b9864f.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\6_png.rf.ff12ab32b4c51e61dafa88d98593ddc9.jpg,Head,Diseased Head,6_png.rf.ff12ab32b4c51e61dafa88d98593ddc9.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased tongue 25.jpg,Head,Diseased Head,Diseased tongue 25.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased-dental-pad-46_jpg.rf.d86da8c137dac19f16654c8bbc313a4b.jpg,Head,Diseased Head,Diseased-dental-pad-46_jpg.rf.d86da8c137dac19f16654c8bbc313a4b.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\imgs013.jpg,Head,Normal Head,imgs013.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\FMD_107_jpg.rf.c88036bdc636beb1ec64ae49d4bebd13.jpg,Head,Diseased Head,FMD_107_jpg.rf.c88036bdc636beb1ec64ae49d4bebd13.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\healthymouth_12_jpg.rf.0008e8c777349aca7ff9fa9def13d064.jpg,Head,Normal Head,healthymouth_12_jpg.rf.0008e8c777349aca7ff9fa9def13d064.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG_0002-01.jpg,Head,Normal Head,IMG_0002-01.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\-64-_jpg.rf.267bc0abaa1e518d95df93304231b153.jpg,Head,Diseased Head,-64-_jpg.rf.267bc0abaa1e518d95df93304231b153.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924150048.jpg,Head,Normal Head,IMG20230924150048.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924145520.jpg,Head,Normal Head,IMG20230924145520.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased-dental-pad-19_jpg.rf.16b91c2558c5b8bada6201d77f98e40d.jpg,Head,Diseased Head,Diseased-dental-pad-19_jpg.rf.16b91c2558c5b8bada6201d77f98e40d.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\LSD-173-_png_jpg.rf.40773a4e94815b5a4ad917a23fafb4ea.jpg,Head,Diseased Head,LSD-173-_png_jpg.rf.40773a4e94815b5a4ad917a23fafb4ea.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230924145905_01.jpg,Head,Normal Head,IMG20230924145905_01.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\LSD-156-_png_jpg.rf.8d37e915e1c2afe5061d61c300f5c040.jpg,Head,Diseased Head,LSD-156-_png_jpg.rf.8d37e915e1c2afe5061d61c300f5c040.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\IMG20230826171425.jpg,Head,Normal Head,IMG20230826171425.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Normal Head\Dorsal side of tongue 1.jpg,Head,Normal Head,Dorsal side of tongue 1.jpg,.jpg,0,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\Diseased lower lip mucosa 4.jpg,Head,Diseased Head,Diseased lower lip mucosa 4.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\foot-and-mougth-20-_png_jpg.rf.70618d6c2a14f0c199cf9d1bf55f7dc6.jpg,Head,Diseased Head,foot-and-mougth-20-_png_jpg.rf.70618d6c2a14f0c199cf9d1bf55f7dc6.jpg,.jpg,1,0,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Head\Diseased Head\5-day-old-lesions-on-cattle-gums_png.rf.cf368acef98039bf6457d2fc5d717825.jpg,Head,Diseased Head,5-day-old-lesions-on-cattle-gums_png.rf.cf368acef98039bf6457d2fc5d717825.jpg,.jpg,1,0,test
