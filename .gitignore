@@ -1,0 +1,12 @@
+# Ignore all image files
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tif
+*.tiff
+*.gif
+
+# Ignore dataset and augmented images folders
+Dataset/*
+outputs/augmented_images/*

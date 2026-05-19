@@ -1,155 +1,162 @@
 image_path,body_part,class_name,file_name,extension,disease_label,body_part_label,split
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Diseased-foot-15_jpg.rf.6c2a03a5491e2492b4ee4e9936782e2b.jpg,Foot,Diseased Foot,Diseased-foot-15_jpg.rf.6c2a03a5491e2492b4ee4e9936782e2b.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_8.jpg,Foot,Normal Foot,augmented_fmdf_8.jpg,.jpg,0,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\5198047453_ab0d6212d0_bWM-1.jpg,Foot,Diseased Foot,5198047453_ab0d6212d0_bWM-1.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_25-Copy_jpeg.rf.67c459d4fed6da714e97423457b3287c.jpg,Foot,Diseased Foot,FMD-Knuckles-_25-Copy_jpeg.rf.67c459d4fed6da714e97423457b3287c.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-foot-lesions-6-Copy-10-_jpg.rf.cb864e751e9c4780a720fffbc4ff5cd5.jpg,Foot,Diseased Foot,FMD-foot-lesions-6-Copy-10-_jpg.rf.cb864e751e9c4780a720fffbc4ff5cd5.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\2346-58-_jpg.rf.6d026120b14637e74e79cad115a04865.jpg,Foot,Diseased Foot,2346-58-_jpg.rf.6d026120b14637e74e79cad115a04865.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_14.jpg,Foot,Normal Foot,augmented_fmdf_14.jpg,.jpg,0,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\kaki_7h.jpg,Foot,Normal Foot,kaki_7h.jpg,.jpg,0,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\kaki_12h.jpg,Foot,Normal Foot,kaki_12h.jpg,.jpg,0,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Diseased foot 24.jpg,Foot,Diseased Foot,Diseased foot 24.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\kaki_4h.jpg,Foot,Normal Foot,kaki_4h.jpg,.jpg,0,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\kaki_1h.jpg,Foot,Normal Foot,kaki_1h.jpg,.jpg,0,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_208_jpeg.rf.209ee7f4f5439cf0577004f6e9204505.jpg,Foot,Diseased Foot,FMD-Knuckles-_208_jpeg.rf.209ee7f4f5439cf0577004f6e9204505.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\Non-diseased hoof 1.jpg,Foot,Normal Foot,Non-diseased hoof 1.jpg,.jpg,0,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_6.jpg,Foot,Normal Foot,augmented_fmdf_6.jpg,.jpg,0,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\cf_2-3d-2WM-1.jpg,Foot,Diseased Foot,cf_2-3d-2WM-1.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_201_jpeg.rf.ac980f8d6fde51b9ec61e07277b6336b.jpg,Foot,Diseased Foot,FMD-Knuckles-_201_jpeg.rf.ac980f8d6fde51b9ec61e07277b6336b.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_5.jpg,Foot,Normal Foot,augmented_fmdf_5.jpg,.jpg,0,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\kaki_6h.jpg,Foot,Normal Foot,kaki_6h.jpg,.jpg,0,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-foot-lesions-11-Copy-10-_jpg.rf.2a4e9bab39ab3df41ec9c0856e1026be.jpg,Foot,Diseased Foot,FMD-foot-lesions-11-Copy-10-_jpg.rf.2a4e9bab39ab3df41ec9c0856e1026be.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\cf 3-4d-1WM-1.jpg,Foot,Diseased Foot,cf 3-4d-1WM-1.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\7-day-vesicle-steer-foot-2_jpg.rf.043438f61b68fccc38a4a573a52da95b.jpg,Foot,Diseased Foot,7-day-vesicle-steer-foot-2_jpg.rf.043438f61b68fccc38a4a573a52da95b.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\kaki_18h.jpeg,Foot,Normal Foot,kaki_18h.jpeg,.jpeg,0,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\pigf 4-5d-1WM-1.jpg,Foot,Diseased Foot,pigf 4-5d-1WM-1.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\kaki_23h.jpeg,Foot,Normal Foot,kaki_23h.jpeg,.jpeg,0,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_21.jpg,Foot,Normal Foot,augmented_fmdf_21.jpg,.jpg,0,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\pigf 10d-1WM-1.jpg,Foot,Diseased Foot,pigf 10d-1WM-1.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\7-foot-mouth-disease-fmd-vesicle-coronary-band-lesion-lameness_jpg.rf.20c1d98aab173f0706dfe1eea6c08d2e.jpg,Foot,Diseased Foot,7-foot-mouth-disease-fmd-vesicle-coronary-band-lesion-lameness_jpg.rf.20c1d98aab173f0706dfe1eea6c08d2e.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Diseased foot 17.jpg,Foot,Diseased Foot,Diseased foot 17.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\Non-diseased hoof 3 copy.jpg,Foot,Normal Foot,Non-diseased hoof 3 copy.jpg,.jpg,0,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\imgs409.jpg,Foot,Normal Foot,imgs409.jpg,.jpg,0,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\pigf 10d-6WM-1.jpg,Foot,Diseased Foot,pigf 10d-6WM-1.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\Non-diseased hoof 2 copy.jpg,Foot,Normal Foot,Non-diseased hoof 2 copy.jpg,.jpg,0,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_1-Copy_jpeg.rf.a6c0b0bbd7efde45389b55a85282afe2.jpg,Foot,Diseased Foot,FMD-Knuckles-_1-Copy_jpeg.rf.a6c0b0bbd7efde45389b55a85282afe2.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\kaki_10h.jpg,Foot,Normal Foot,kaki_10h.jpg,.jpg,0,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_2.jpg,Foot,Normal Foot,augmented_fmdf_2.jpg,.jpg,0,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Diseased-foot-11_jpg.rf.333ce66d542ab20c53e3b631b959def9.jpg,Foot,Diseased Foot,Diseased-foot-11_jpg.rf.333ce66d542ab20c53e3b631b959def9.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_48-Copy_jpeg.rf.8120ad7a99c9b3aa9c597f73cef43d01.jpg,Foot,Diseased Foot,FMD-Knuckles-_48-Copy_jpeg.rf.8120ad7a99c9b3aa9c597f73cef43d01.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_210_jpeg.rf.96613305f968eb7b13dd5a6aa7b8d05f.jpg,Foot,Diseased Foot,FMD-Knuckles-_210_jpeg.rf.96613305f968eb7b13dd5a6aa7b8d05f.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_23.jpg,Foot,Normal Foot,augmented_fmdf_23.jpg,.jpg,0,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\imgs451.jpg,Foot,Normal Foot,imgs451.jpg,.jpg,0,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\15_jpg.rf.0c4dfb2ed31edae315b1272570e30e4f.jpg,Foot,Diseased Foot,15_jpg.rf.0c4dfb2ed31edae315b1272570e30e4f.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Diseased foot 4.jpg,Foot,Diseased Foot,Diseased foot 4.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-foot-lesions-13_jpg.rf.abb26b8d7043297c0e75bcf8351b4f71.jpg,Foot,Diseased Foot,FMD-foot-lesions-13_jpg.rf.abb26b8d7043297c0e75bcf8351b4f71.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_22.jpg,Foot,Normal Foot,augmented_fmdf_22.jpg,.jpg,0,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\cow-hoof-with-FMD-sores-600px_jpg.rf.86afd67f9e5b83ed050d1817d6533408.jpg,Foot,Diseased Foot,cow-hoof-with-FMD-sores-600px_jpg.rf.86afd67f9e5b83ed050d1817d6533408.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_54-Copy_jpeg.rf.99ae59840ac60a16331a3077ed782973.jpg,Foot,Diseased Foot,FMD-Knuckles-_54-Copy_jpeg.rf.99ae59840ac60a16331a3077ed782973.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\Non-diseased hoof 5.jpg,Foot,Normal Foot,Non-diseased hoof 5.jpg,.jpg,0,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Diseased foot 2.jpg,Foot,Diseased Foot,Diseased foot 2.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_12.jpg,Foot,Normal Foot,augmented_fmdf_12.jpg,.jpg,0,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_225_jpeg.rf.0e0efefc55ca171a1137b34a35cfdcc8.jpg,Foot,Diseased Foot,FMD-Knuckles-_225_jpeg.rf.0e0efefc55ca171a1137b34a35cfdcc8.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\IMG_2691WM.jpg,Foot,Diseased Foot,IMG_2691WM.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_0.jpg,Foot,Normal Foot,augmented_fmdf_0.jpg,.jpg,0,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_24-Copy_jpeg.rf.c7c41b90b34789945d5660418a885473.jpg,Foot,Diseased Foot,FMD-Knuckles-_24-Copy_jpeg.rf.c7c41b90b34789945d5660418a885473.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_7-Copy_jpeg.rf.1df23e54b2e811276749502dc5d1ba9f.jpg,Foot,Diseased Foot,FMD-Knuckles-_7-Copy_jpeg.rf.1df23e54b2e811276749502dc5d1ba9f.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\babi3_png.rf.f277b8464819ea7d9b4d45e4b43d7d3b.jpg,Foot,Diseased Foot,babi3_png.rf.f277b8464819ea7d9b4d45e4b43d7d3b.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\123qe-82-_jpg.rf.c8d3bc199c59dc9b2a6f77ede30ac3b3.jpg,Foot,Diseased Foot,123qe-82-_jpg.rf.c8d3bc199c59dc9b2a6f77ede30ac3b3.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Diseased-foot-13_jpg.rf.a7a1c706c7128a6a1c532e5511162df4.jpg,Foot,Diseased Foot,Diseased-foot-13_jpg.rf.a7a1c706c7128a6a1c532e5511162df4.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Diseased foot 21.jpg,Foot,Diseased Foot,Diseased foot 21.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_16.jpg,Foot,Normal Foot,augmented_fmdf_16.jpg,.jpg,0,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\pigf 2d-1WM-1.jpg,Foot,Diseased Foot,pigf 2d-1WM-1.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\pigfoot2WM-1.jpg,Foot,Diseased Foot,pigfoot2WM-1.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\footlesion2WM-1.jpg,Foot,Diseased Foot,footlesion2WM-1.jpg,.jpg,1,1,train
 c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_192_jpeg.rf.4871a640e847028768f94b1222f50303.jpg,Foot,Diseased Foot,FMD-Knuckles-_192_jpeg.rf.4871a640e847028768f94b1222f50303.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_43-Copy_jpeg.rf.bf5277a8092f2021137c0fc93b88fa9b.jpg,Foot,Diseased Foot,FMD-Knuckles-_43-Copy_jpeg.rf.bf5277a8092f2021137c0fc93b88fa9b.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\Non-diseased hoof 1.jpg,Foot,Normal Foot,Non-diseased hoof 1.jpg,.jpg,0,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\kaki_17h.jpg,Foot,Normal Foot,kaki_17h.jpg,.jpg,0,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_18.jpg,Foot,Normal Foot,augmented_fmdf_18.jpg,.jpg,0,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_152_jpeg.rf.d80182ccd7da06ca6203f45d04629c57.jpg,Foot,Diseased Foot,FMD-Knuckles-_152_jpeg.rf.d80182ccd7da06ca6203f45d04629c57.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_5.jpg,Foot,Normal Foot,augmented_fmdf_5.jpg,.jpg,0,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_6.jpg,Foot,Normal Foot,augmented_fmdf_6.jpg,.jpg,0,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_8.jpg,Foot,Normal Foot,augmented_fmdf_8.jpg,.jpg,0,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\kaki_1h.jpg,Foot,Normal Foot,kaki_1h.jpg,.jpg,0,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_64-Copy_jpeg.rf.117a77252cd52b1bb5b67f6465d5aa4f.jpg,Foot,Diseased Foot,FMD-Knuckles-_64-Copy_jpeg.rf.117a77252cd52b1bb5b67f6465d5aa4f.jpg,.jpg,1,1,train
 c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\kaki_14h(1).jpg,Foot,Normal Foot,kaki_14h(1).jpg,.jpg,0,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_183_jpeg.rf.8716e58777da89cb517b31e275868c1a.jpg,Foot,Diseased Foot,FMD-Knuckles-_183_jpeg.rf.8716e58777da89cb517b31e275868c1a.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_17.jpg,Foot,Normal Foot,augmented_fmdf_17.jpg,.jpg,0,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_206_jpeg.rf.08a0dc2124ac0916d2fbb5bf5b50ba64.jpg,Foot,Diseased Foot,FMD-Knuckles-_206_jpeg.rf.08a0dc2124ac0916d2fbb5bf5b50ba64.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\13-contagious-ovine-digital-dermatitis-codd_jpg.rf.12e4f18746a7b74bf28ab0f08c5cf574.jpg,Foot,Diseased Foot,13-contagious-ovine-digital-dermatitis-codd_jpg.rf.12e4f18746a7b74bf28ab0f08c5cf574.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\7-day-vesicle-steer-foot_jpg.rf.cdd8da2a7ec2c4dbca9fef213ab3da24.jpg,Foot,Diseased Foot,7-day-vesicle-steer-foot_jpg.rf.cdd8da2a7ec2c4dbca9fef213ab3da24.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_57_jpeg.rf.0d19b8c85bb0dc34a0c97e457f187e2a.jpg,Foot,Diseased Foot,FMD-Knuckles-_57_jpeg.rf.0d19b8c85bb0dc34a0c97e457f187e2a.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\kaki_2h.jpg,Foot,Normal Foot,kaki_2h.jpg,.jpg,0,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\7-day-vesicle-steer-foot-2_jpg.rf.043438f61b68fccc38a4a573a52da95b.jpg,Foot,Diseased Foot,7-day-vesicle-steer-foot-2_jpg.rf.043438f61b68fccc38a4a573a52da95b.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\123qe-58-_jpg.rf.614b8ae66b57dcdcbf3f8aab355b11d2.jpg,Foot,Diseased Foot,123qe-58-_jpg.rf.614b8ae66b57dcdcbf3f8aab355b11d2.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\footlesion2WM-1.jpg,Foot,Diseased Foot,footlesion2WM-1.jpg,.jpg,1,1,train
+"c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\2 day vesicle, steer, foot, 2.jpg",Foot,Diseased Foot,"2 day vesicle, steer, foot, 2.jpg",.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\14-Copy-10-_jpg.rf.d1e665991e98c14e423bb213484ab7ec.jpg,Foot,Diseased Foot,14-Copy-10-_jpg.rf.d1e665991e98c14e423bb213484ab7ec.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_43-Copy_jpeg.rf.bf5277a8092f2021137c0fc93b88fa9b.jpg,Foot,Diseased Foot,FMD-Knuckles-_43-Copy_jpeg.rf.bf5277a8092f2021137c0fc93b88fa9b.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Diseased foot 24.jpg,Foot,Diseased Foot,Diseased foot 24.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Diseased-foot-8_jpg.rf.5dd0210298ef0dbf2e4e99cc0ee96cbb.jpg,Foot,Diseased Foot,Diseased-foot-8_jpg.rf.5dd0210298ef0dbf2e4e99cc0ee96cbb.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_25-Copy_jpeg.rf.67c459d4fed6da714e97423457b3287c.jpg,Foot,Diseased Foot,FMD-Knuckles-_25-Copy_jpeg.rf.67c459d4fed6da714e97423457b3287c.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\kaki_13h.jpg,Foot,Normal Foot,kaki_13h.jpg,.jpg,0,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Diseased foot 10.jpg,Foot,Diseased Foot,Diseased foot 10.jpg,.jpg,1,1,train
+"c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\2 day vesicle, steer, heel bulb.jpg",Foot,Diseased Foot,"2 day vesicle, steer, heel bulb.jpg",.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\2346-86-_jpg.rf.d84a66d9ddc4dd6e39ac4cfd3cb54bd1.jpg,Foot,Diseased Foot,2346-86-_jpg.rf.d84a66d9ddc4dd6e39ac4cfd3cb54bd1.jpg,.jpg,1,1,train
+"c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\5 day vesicle, steer, foot.jpg",Foot,Diseased Foot,"5 day vesicle, steer, foot.jpg",.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\kaki_8h.jpg,Foot,Normal Foot,kaki_8h.jpg,.jpg,0,1,train
 c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\cf2-3d-1 WM.jpg,Foot,Diseased Foot,cf2-3d-1 WM.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_11.jpg,Foot,Normal Foot,augmented_fmdf_11.jpg,.jpg,0,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\pigf 10d-3WM-1.jpg,Foot,Diseased Foot,pigf 10d-3WM-1.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Diseased-foot-20_jpg.rf.0fd4a82a468532ed5ba3e031d83cbee7.jpg,Foot,Diseased Foot,Diseased-foot-20_jpg.rf.0fd4a82a468532ed5ba3e031d83cbee7.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_20.jpg,Foot,Normal Foot,augmented_fmdf_20.jpg,.jpg,0,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_208_jpeg.rf.209ee7f4f5439cf0577004f6e9204505.jpg,Foot,Diseased Foot,FMD-Knuckles-_208_jpeg.rf.209ee7f4f5439cf0577004f6e9204505.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_24-Copy_jpeg.rf.c7c41b90b34789945d5660418a885473.jpg,Foot,Diseased Foot,FMD-Knuckles-_24-Copy_jpeg.rf.c7c41b90b34789945d5660418a885473.jpg,.jpg,1,1,train
 c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Lumpy_Skin_4.png,Foot,Diseased Foot,Lumpy_Skin_4.png,.png,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Diseased foot 1.jpg,Foot,Diseased Foot,Diseased foot 1.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\kaki_14h.jpg,Foot,Normal Foot,kaki_14h.jpg,.jpg,0,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\pigf10d-8WM-1.jpg,Foot,Diseased Foot,pigf10d-8WM-1.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\cf 2-3d-3WM-1.jpg,Foot,Diseased Foot,cf 2-3d-3WM-1.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\Non-diseased hoof 3 copy.jpg,Foot,Normal Foot,Non-diseased hoof 3 copy.jpg,.jpg,0,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-foot-lesions-11-Copy-10-_jpg.rf.2a4e9bab39ab3df41ec9c0856e1026be.jpg,Foot,Diseased Foot,FMD-foot-lesions-11-Copy-10-_jpg.rf.2a4e9bab39ab3df41ec9c0856e1026be.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_8-Copy_jpeg.rf.0aea6ce7508c368c9d27d0d2a5a2eea6.jpg,Foot,Diseased Foot,FMD-Knuckles-_8-Copy_jpeg.rf.0aea6ce7508c368c9d27d0d2a5a2eea6.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\7-foot-mouth-disease-fmd-vesicle-coronary-band-lesion-lameness_jpg.rf.20c1d98aab173f0706dfe1eea6c08d2e.jpg,Foot,Diseased Foot,7-foot-mouth-disease-fmd-vesicle-coronary-band-lesion-lameness_jpg.rf.20c1d98aab173f0706dfe1eea6c08d2e.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_57_jpeg.rf.0d19b8c85bb0dc34a0c97e457f187e2a.jpg,Foot,Diseased Foot,FMD-Knuckles-_57_jpeg.rf.0d19b8c85bb0dc34a0c97e457f187e2a.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_214_jpeg.rf.8e4e82b5fe2e63d67e185c83a975d6ff.jpg,Foot,Diseased Foot,FMD-Knuckles-_214_jpeg.rf.8e4e82b5fe2e63d67e185c83a975d6ff.jpg,.jpg,1,1,train
 c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Diseased-foot-16_jpg.rf.669d0d22550b680555d32b1f0d296e04.jpg,Foot,Diseased Foot,Diseased-foot-16_jpg.rf.669d0d22550b680555d32b1f0d296e04.jpg,.jpg,1,1,train
 c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\imgs425.jpg,Foot,Normal Foot,imgs425.jpg,.jpg,0,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\123qe-58-_jpg.rf.614b8ae66b57dcdcbf3f8aab355b11d2.jpg,Foot,Diseased Foot,123qe-58-_jpg.rf.614b8ae66b57dcdcbf3f8aab355b11d2.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Diseased foot 3.jpg,Foot,Diseased Foot,Diseased foot 3.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_19.jpg,Foot,Normal Foot,augmented_fmdf_19.jpg,.jpg,0,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\kaki_13h.jpg,Foot,Normal Foot,kaki_13h.jpg,.jpg,0,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD_005_jpg.rf.a607ab26c23a39659b417becbb86d144.jpg,Foot,Diseased Foot,FMD_005_jpg.rf.a607ab26c23a39659b417becbb86d144.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_152_jpeg.rf.d80182ccd7da06ca6203f45d04629c57.jpg,Foot,Diseased Foot,FMD-Knuckles-_152_jpeg.rf.d80182ccd7da06ca6203f45d04629c57.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Lumpy_Skin_263.png,Foot,Diseased Foot,Lumpy_Skin_263.png,.png,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\pigf 10d-5WM-1.jpg,Foot,Diseased Foot,pigf 10d-5WM-1.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_3.jpg,Foot,Normal Foot,augmented_fmdf_3.jpg,.jpg,0,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Diseased foot 10.jpg,Foot,Diseased Foot,Diseased foot 10.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Diseased-foot-9_jpg.rf.682ce915347993a671da52b3be60de48.jpg,Foot,Diseased Foot,Diseased-foot-9_jpg.rf.682ce915347993a671da52b3be60de48.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD_041_jpg.rf.b541132b95a8f052457bd5725e3463b6.jpg,Foot,Diseased Foot,FMD_041_jpg.rf.b541132b95a8f052457bd5725e3463b6.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Capture3_png.rf.89bb532a6a3a360a76f029913cd5232a.jpg,Foot,Diseased Foot,Capture3_png.rf.89bb532a6a3a360a76f029913cd5232a.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\kaki_15h.jpg,Foot,Normal Foot,kaki_15h.jpg,.jpg,0,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-foot-lesions-9_jpg.rf.5e120a4fab553082a463b789d5ae295a.jpg,Foot,Diseased Foot,FMD-foot-lesions-9_jpg.rf.5e120a4fab553082a463b789d5ae295a.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_11.jpg,Foot,Normal Foot,augmented_fmdf_11.jpg,.jpg,0,1,train
 c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_20-Copy_jpeg.rf.33f54ba9b0d0424fecd82748640d728a.jpg,Foot,Diseased Foot,FMD-Knuckles-_20-Copy_jpeg.rf.33f54ba9b0d0424fecd82748640d728a.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\DSCN8982.JPG,Foot,Diseased Foot,DSCN8982.JPG,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_53-Copy_jpeg.rf.a2ab4ce5cb80267879355caa72979699.jpg,Foot,Diseased Foot,FMD-Knuckles-_53-Copy_jpeg.rf.a2ab4ce5cb80267879355caa72979699.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\bvd-md-foot-lesion_jpg.rf.725c4a909592b1f074e059b5bc8dd0b4.jpg,Foot,Diseased Foot,bvd-md-foot-lesion_jpg.rf.725c4a909592b1f074e059b5bc8dd0b4.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_7.jpg,Foot,Normal Foot,augmented_fmdf_7.jpg,.jpg,0,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\footlesionWM-1.jpg,Foot,Diseased Foot,footlesionWM-1.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_22.jpg,Foot,Normal Foot,augmented_fmdf_22.jpg,.jpg,0,1,train
 c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\5-day-vesicle-steer-foot_jpg.rf.9f6a5b070e044c782556866eac3d3bbe.jpg,Foot,Diseased Foot,5-day-vesicle-steer-foot_jpg.rf.9f6a5b070e044c782556866eac3d3bbe.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\feet_2-3 daysJMOKWM.jpg,Foot,Diseased Foot,feet_2-3 daysJMOKWM.jpg,.jpg,1,1,train
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Diseased foot 6.jpg,Foot,Diseased Foot,Diseased foot 6.jpg,.jpg,1,1,val
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\img1025.jpg,Foot,Diseased Foot,img1025.jpg,.jpg,1,1,val
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\kaki_16h.jpg,Foot,Normal Foot,kaki_16h.jpg,.jpg,0,1,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Diseased-foot-12_jpg.rf.097b9b8442d3417ca1b07831b94d37a4.jpg,Foot,Diseased Foot,Diseased-foot-12_jpg.rf.097b9b8442d3417ca1b07831b94d37a4.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-foot-lesions-13_jpg.rf.abb26b8d7043297c0e75bcf8351b4f71.jpg,Foot,Diseased Foot,FMD-foot-lesions-13_jpg.rf.abb26b8d7043297c0e75bcf8351b4f71.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_16.jpg,Foot,Normal Foot,augmented_fmdf_16.jpg,.jpg,0,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\kaki_14h.jpg,Foot,Normal Foot,kaki_14h.jpg,.jpg,0,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Diseased-foot-19_jpg.rf.5332c0f68cd5dbd13b0266a3d1a722fa.jpg,Foot,Diseased Foot,Diseased-foot-19_jpg.rf.5332c0f68cd5dbd13b0266a3d1a722fa.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_14.jpg,Foot,Normal Foot,augmented_fmdf_14.jpg,.jpg,0,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Diseased foot 1.jpg,Foot,Diseased Foot,Diseased foot 1.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\kaki_15h.jpg,Foot,Normal Foot,kaki_15h.jpg,.jpg,0,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\kaki_6h.jpg,Foot,Normal Foot,kaki_6h.jpg,.jpg,0,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\img1025.jpg,Foot,Diseased Foot,img1025.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\pigf 10d-6WM-1.jpg,Foot,Diseased Foot,pigf 10d-6WM-1.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\kaki_11h.jpg,Foot,Normal Foot,kaki_11h.jpg,.jpg,0,1,train
+"c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\2 day vesicle, steer, heel bulb, 2.jpg",Foot,Diseased Foot,"2 day vesicle, steer, heel bulb, 2.jpg",.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\Non-diseased hoof 2 copy.jpg,Foot,Normal Foot,Non-diseased hoof 2 copy.jpg,.jpg,0,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\bvd-md-foot-lesion_jpg.rf.725c4a909592b1f074e059b5bc8dd0b4.jpg,Foot,Diseased Foot,bvd-md-foot-lesion_jpg.rf.725c4a909592b1f074e059b5bc8dd0b4.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\kaki_4h.jpg,Foot,Normal Foot,kaki_4h.jpg,.jpg,0,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\pigf 4-5d-1WM-1.jpg,Foot,Diseased Foot,pigf 4-5d-1WM-1.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\2346-58-_jpg.rf.6d026120b14637e74e79cad115a04865.jpg,Foot,Diseased Foot,2346-58-_jpg.rf.6d026120b14637e74e79cad115a04865.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\babi3_png.rf.f277b8464819ea7d9b4d45e4b43d7d3b.jpg,Foot,Diseased Foot,babi3_png.rf.f277b8464819ea7d9b4d45e4b43d7d3b.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_201_jpeg.rf.ac980f8d6fde51b9ec61e07277b6336b.jpg,Foot,Diseased Foot,FMD-Knuckles-_201_jpeg.rf.ac980f8d6fde51b9ec61e07277b6336b.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_23.jpg,Foot,Normal Foot,augmented_fmdf_23.jpg,.jpg,0,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\pigf 2d-1WM-1.jpg,Foot,Diseased Foot,pigf 2d-1WM-1.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_210_jpeg.rf.96613305f968eb7b13dd5a6aa7b8d05f.jpg,Foot,Diseased Foot,FMD-Knuckles-_210_jpeg.rf.96613305f968eb7b13dd5a6aa7b8d05f.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_41-Copy_jpeg.rf.58042bb1462d3f09371ebf6ec19eca08.jpg,Foot,Diseased Foot,FMD-Knuckles-_41-Copy_jpeg.rf.58042bb1462d3f09371ebf6ec19eca08.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_15.jpg,Foot,Normal Foot,augmented_fmdf_15.jpg,.jpg,0,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Diseased foot 7.jpg,Foot,Diseased Foot,Diseased foot 7.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Diseased foot 4.jpg,Foot,Diseased Foot,Diseased foot 4.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\2346-128-_jpg.rf.2b458f808811a8c2edc380ed6bb3c717.jpg,Foot,Diseased Foot,2346-128-_jpg.rf.2b458f808811a8c2edc380ed6bb3c717.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Diseased-foot-9_jpg.rf.682ce915347993a671da52b3be60de48.jpg,Foot,Diseased Foot,Diseased-foot-9_jpg.rf.682ce915347993a671da52b3be60de48.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Diseased-foot-15_jpg.rf.6c2a03a5491e2492b4ee4e9936782e2b.jpg,Foot,Diseased Foot,Diseased-foot-15_jpg.rf.6c2a03a5491e2492b4ee4e9936782e2b.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Diseased foot 3.jpg,Foot,Diseased Foot,Diseased foot 3.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_33-Copy_jpeg.rf.f8bc77dfb4b224463f72b89763e2d9bc.jpg,Foot,Diseased Foot,FMD-Knuckles-_33-Copy_jpeg.rf.f8bc77dfb4b224463f72b89763e2d9bc.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\kaki_16h.jpg,Foot,Normal Foot,kaki_16h.jpg,.jpg,0,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_155_jpeg.rf.09c767669dfde6e4d89320485ad147a4.jpg,Foot,Diseased Foot,FMD-Knuckles-_155_jpeg.rf.09c767669dfde6e4d89320485ad147a4.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_21.jpg,Foot,Normal Foot,augmented_fmdf_21.jpg,.jpg,0,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_53-Copy_jpeg.rf.a2ab4ce5cb80267879355caa72979699.jpg,Foot,Diseased Foot,FMD-Knuckles-_53-Copy_jpeg.rf.a2ab4ce5cb80267879355caa72979699.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\pigf 10d-3WM-1.jpg,Foot,Diseased Foot,pigf 10d-3WM-1.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\123qe-86-_jpg.rf.4181f69a98a4a661c21a4670c2577d37.jpg,Foot,Diseased Foot,123qe-86-_jpg.rf.4181f69a98a4a661c21a4670c2577d37.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\cf 2-3d-3WM-1.jpg,Foot,Diseased Foot,cf 2-3d-3WM-1.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\kaki_12h.jpg,Foot,Normal Foot,kaki_12h.jpg,.jpg,0,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Lumpy_Skin_263.png,Foot,Diseased Foot,Lumpy_Skin_263.png,.png,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\pigfoot2WM-1.jpg,Foot,Diseased Foot,pigfoot2WM-1.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\kaki_5h.jpg,Foot,Normal Foot,kaki_5h.jpg,.jpg,0,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\123qe-82-_jpg.rf.c8d3bc199c59dc9b2a6f77ede30ac3b3.jpg,Foot,Diseased Foot,123qe-82-_jpg.rf.c8d3bc199c59dc9b2a6f77ede30ac3b3.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_206_jpeg.rf.08a0dc2124ac0916d2fbb5bf5b50ba64.jpg,Foot,Diseased Foot,FMD-Knuckles-_206_jpeg.rf.08a0dc2124ac0916d2fbb5bf5b50ba64.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_225_jpeg.rf.0e0efefc55ca171a1137b34a35cfdcc8.jpg,Foot,Diseased Foot,FMD-Knuckles-_225_jpeg.rf.0e0efefc55ca171a1137b34a35cfdcc8.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\footlesionWM-1.jpg,Foot,Diseased Foot,footlesionWM-1.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_0.jpg,Foot,Normal Foot,augmented_fmdf_0.jpg,.jpg,0,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\cow-hoof-with-FMD-sores-600px_jpg.rf.86afd67f9e5b83ed050d1817d6533408.jpg,Foot,Diseased Foot,cow-hoof-with-FMD-sores-600px_jpg.rf.86afd67f9e5b83ed050d1817d6533408.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Capture3_png.rf.89bb532a6a3a360a76f029913cd5232a.jpg,Foot,Diseased Foot,Capture3_png.rf.89bb532a6a3a360a76f029913cd5232a.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\IMG_2691WM.jpg,Foot,Diseased Foot,IMG_2691WM.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_4.jpg,Foot,Normal Foot,augmented_fmdf_4.jpg,.jpg,0,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\bvd-md-bulbs-heel-lesion_jpg.rf.eaa3c17e2429635c02a37cf37be06e79.jpg,Foot,Diseased Foot,bvd-md-bulbs-heel-lesion_jpg.rf.eaa3c17e2429635c02a37cf37be06e79.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\5198047453_ab0d6212d0_bWM-1.jpg,Foot,Diseased Foot,5198047453_ab0d6212d0_bWM-1.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_3.jpg,Foot,Normal Foot,augmented_fmdf_3.jpg,.jpg,0,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\kaki_10h.jpg,Foot,Normal Foot,kaki_10h.jpg,.jpg,0,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_48-Copy_jpeg.rf.8120ad7a99c9b3aa9c597f73cef43d01.jpg,Foot,Diseased Foot,FMD-Knuckles-_48-Copy_jpeg.rf.8120ad7a99c9b3aa9c597f73cef43d01.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\pigf10d-8WM-1.jpg,Foot,Diseased Foot,pigf10d-8WM-1.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Diseased foot 6.jpg,Foot,Diseased Foot,Diseased foot 6.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-foot-lesions-9_jpg.rf.5e120a4fab553082a463b789d5ae295a.jpg,Foot,Diseased Foot,FMD-foot-lesions-9_jpg.rf.5e120a4fab553082a463b789d5ae295a.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\7-day-vesicle-steer-foot_jpg.rf.cdd8da2a7ec2c4dbca9fef213ab3da24.jpg,Foot,Diseased Foot,7-day-vesicle-steer-foot_jpg.rf.cdd8da2a7ec2c4dbca9fef213ab3da24.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\cf2-3d-2WM.jpg,Foot,Diseased Foot,cf2-3d-2WM.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\kaki_7h.jpg,Foot,Normal Foot,kaki_7h.jpg,.jpg,0,1,train
+"c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\5-7 day lesion, foot.jpeg",Foot,Diseased Foot,"5-7 day lesion, foot.jpeg",.jpeg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Diseased foot 21.jpg,Foot,Diseased Foot,Diseased foot 21.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\DSCN8982.JPG,Foot,Diseased Foot,DSCN8982.JPG,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\pigf 10d-2WM-1.jpg,Foot,Diseased Foot,pigf 10d-2WM-1.jpg,.jpg,1,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_19.jpg,Foot,Normal Foot,augmented_fmdf_19.jpg,.jpg,0,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\imgs451.jpg,Foot,Normal Foot,imgs451.jpg,.jpg,0,1,train
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Diseased-foot-14_jpg.rf.aa09d0132e684019bff881d3f1850e5d.jpg,Foot,Diseased Foot,Diseased-foot-14_jpg.rf.aa09d0132e684019bff881d3f1850e5d.jpg,.jpg,1,1,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Diseased-foot-11_jpg.rf.333ce66d542ab20c53e3b631b959def9.jpg,Foot,Diseased Foot,Diseased-foot-11_jpg.rf.333ce66d542ab20c53e3b631b959def9.jpg,.jpg,1,1,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\kaki_23h.jpeg,Foot,Normal Foot,kaki_23h.jpeg,.jpeg,0,1,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Diseased-foot-5_jpg.rf.f965aaf3ee544a7b4f4431c7c5f637de.jpg,Foot,Diseased Foot,Diseased-foot-5_jpg.rf.f965aaf3ee544a7b4f4431c7c5f637de.jpg,.jpg,1,1,val
 c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\pigf 10d-7WM-1.jpg,Foot,Diseased Foot,pigf 10d-7WM-1.jpg,.jpg,1,1,val
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_214_jpeg.rf.8e4e82b5fe2e63d67e185c83a975d6ff.jpg,Foot,Diseased Foot,FMD-Knuckles-_214_jpeg.rf.8e4e82b5fe2e63d67e185c83a975d6ff.jpg,.jpg,1,1,val
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\kaki_8h.jpg,Foot,Normal Foot,kaki_8h.jpg,.jpg,0,1,val
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_8-Copy_jpeg.rf.0aea6ce7508c368c9d27d0d2a5a2eea6.jpg,Foot,Diseased Foot,FMD-Knuckles-_8-Copy_jpeg.rf.0aea6ce7508c368c9d27d0d2a5a2eea6.jpg,.jpg,1,1,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD_027_jpg.rf.f1613382dba4091ca3b802f9269c8fed - Copy.jpg,Foot,Diseased Foot,FMD_027_jpg.rf.f1613382dba4091ca3b802f9269c8fed - Copy.jpg,.jpg,1,1,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_2.jpg,Foot,Normal Foot,augmented_fmdf_2.jpg,.jpg,0,1,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-foot-lesions-6-Copy-10-_jpg.rf.cb864e751e9c4780a720fffbc4ff5cd5.jpg,Foot,Diseased Foot,FMD-foot-lesions-6-Copy-10-_jpg.rf.cb864e751e9c4780a720fffbc4ff5cd5.jpg,.jpg,1,1,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\feet_2-3 daysJMOKWM.jpg,Foot,Diseased Foot,feet_2-3 daysJMOKWM.jpg,.jpg,1,1,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\13-contagious-ovine-digital-dermatitis-codd_jpg.rf.12e4f18746a7b74bf28ab0f08c5cf574.jpg,Foot,Diseased Foot,13-contagious-ovine-digital-dermatitis-codd_jpg.rf.12e4f18746a7b74bf28ab0f08c5cf574.jpg,.jpg,1,1,val
 c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-foot-lesions-4-Copy-10-_jpg.rf.1b97f766980c72d0b27c2310dcc142b1.jpg,Foot,Diseased Foot,FMD-foot-lesions-4-Copy-10-_jpg.rf.1b97f766980c72d0b27c2310dcc142b1.jpg,.jpg,1,1,val
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Diseased-foot-8_jpg.rf.5dd0210298ef0dbf2e4e99cc0ee96cbb.jpg,Foot,Diseased Foot,Diseased-foot-8_jpg.rf.5dd0210298ef0dbf2e4e99cc0ee96cbb.jpg,.jpg,1,1,val
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Diseased-foot-12_jpg.rf.097b9b8442d3417ca1b07831b94d37a4.jpg,Foot,Diseased Foot,Diseased-foot-12_jpg.rf.097b9b8442d3417ca1b07831b94d37a4.jpg,.jpg,1,1,val
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\pigf 10d-2WM-1.jpg,Foot,Diseased Foot,pigf 10d-2WM-1.jpg,.jpg,1,1,val
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\kaki_21h.jpeg,Foot,Normal Foot,kaki_21h.jpeg,.jpeg,0,1,val
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_1.jpg,Foot,Normal Foot,augmented_fmdf_1.jpg,.jpg,0,1,val
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\kaki_17h.jpg,Foot,Normal Foot,kaki_17h.jpg,.jpg,0,1,val
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\123qe-86-_jpg.rf.4181f69a98a4a661c21a4670c2577d37.jpg,Foot,Diseased Foot,123qe-86-_jpg.rf.4181f69a98a4a661c21a4670c2577d37.jpg,.jpg,1,1,val
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Diseased foot 7.jpg,Foot,Diseased Foot,Diseased foot 7.jpg,.jpg,1,1,val
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\kaki_5h.jpg,Foot,Normal Foot,kaki_5h.jpg,.jpg,0,1,val
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\8386722892_1faa1e77fd_bWM-1.jpg,Foot,Diseased Foot,8386722892_1faa1e77fd_bWM-1.jpg,.jpg,1,1,val
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\kaki_3h.jpg,Foot,Normal Foot,kaki_3h.jpg,.jpg,0,1,val
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Diseased-foot-18_jpg.rf.c49b89ed4c7d42b7ac5e2b324ba31270.jpg,Foot,Diseased Foot,Diseased-foot-18_jpg.rf.c49b89ed4c7d42b7ac5e2b324ba31270.jpg,.jpg,1,1,val
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_216_jpeg.rf.44394318bb06f66f542b3343bf79463c.jpg,Foot,Diseased Foot,FMD-Knuckles-_216_jpeg.rf.44394318bb06f66f542b3343bf79463c.jpg,.jpg,1,1,val
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_34-Copy_jpeg.rf.fd915204062efe9e9bb9bff61a1ad1bb.jpg,Foot,Diseased Foot,FMD-Knuckles-_34-Copy_jpeg.rf.fd915204062efe9e9bb9bff61a1ad1bb.jpg,.jpg,1,1,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\imgs409.jpg,Foot,Normal Foot,imgs409.jpg,.jpg,0,1,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_13.jpg,Foot,Normal Foot,augmented_fmdf_13.jpg,.jpg,0,1,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\pigf 10d-5WM-1.jpg,Foot,Diseased Foot,pigf 10d-5WM-1.jpg,.jpg,1,1,val
 c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\kaki_9h.jpg,Foot,Normal Foot,kaki_9h.jpg,.jpg,0,1,val
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_10.jpg,Foot,Normal Foot,augmented_fmdf_10.jpg,.jpg,0,1,test
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_4.jpg,Foot,Normal Foot,augmented_fmdf_4.jpg,.jpg,0,1,test
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Diseased-foot-14_jpg.rf.aa09d0132e684019bff881d3f1850e5d.jpg,Foot,Diseased Foot,Diseased-foot-14_jpg.rf.aa09d0132e684019bff881d3f1850e5d.jpg,.jpg,1,1,test
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\2346-128-_jpg.rf.2b458f808811a8c2edc380ed6bb3c717.jpg,Foot,Diseased Foot,2346-128-_jpg.rf.2b458f808811a8c2edc380ed6bb3c717.jpg,.jpg,1,1,test
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_15.jpg,Foot,Normal Foot,augmented_fmdf_15.jpg,.jpg,0,1,test
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\bvd-md-bulbs-heel-lesion_jpg.rf.eaa3c17e2429635c02a37cf37be06e79.jpg,Foot,Diseased Foot,bvd-md-bulbs-heel-lesion_jpg.rf.eaa3c17e2429635c02a37cf37be06e79.jpg,.jpg,1,1,test
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_64-Copy_jpeg.rf.117a77252cd52b1bb5b67f6465d5aa4f.jpg,Foot,Diseased Foot,FMD-Knuckles-_64-Copy_jpeg.rf.117a77252cd52b1bb5b67f6465d5aa4f.jpg,.jpg,1,1,test
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Diseased-foot-5_jpg.rf.f965aaf3ee544a7b4f4431c7c5f637de.jpg,Foot,Diseased Foot,Diseased-foot-5_jpg.rf.f965aaf3ee544a7b4f4431c7c5f637de.jpg,.jpg,1,1,test
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\2346-86-_jpg.rf.d84a66d9ddc4dd6e39ac4cfd3cb54bd1.jpg,Foot,Diseased Foot,2346-86-_jpg.rf.d84a66d9ddc4dd6e39ac4cfd3cb54bd1.jpg,.jpg,1,1,test
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_20.jpg,Foot,Normal Foot,augmented_fmdf_20.jpg,.jpg,0,1,test
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\14-Copy-10-_jpg.rf.d1e665991e98c14e423bb213484ab7ec.jpg,Foot,Diseased Foot,14-Copy-10-_jpg.rf.d1e665991e98c14e423bb213484ab7ec.jpg,.jpg,1,1,test
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_204_jpeg.rf.53149a77f660ee57b801821985b56070.jpg,Foot,Diseased Foot,FMD-Knuckles-_204_jpeg.rf.53149a77f660ee57b801821985b56070.jpg,.jpg,1,1,test
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\cf2-3d-2WM.jpg,Foot,Diseased Foot,cf2-3d-2WM.jpg,.jpg,1,1,test
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\kaki_11h.jpg,Foot,Normal Foot,kaki_11h.jpg,.jpg,0,1,test
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Diseased-foot-19_jpg.rf.5332c0f68cd5dbd13b0266a3d1a722fa.jpg,Foot,Diseased Foot,Diseased-foot-19_jpg.rf.5332c0f68cd5dbd13b0266a3d1a722fa.jpg,.jpg,1,1,test
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_18.jpg,Foot,Normal Foot,augmented_fmdf_18.jpg,.jpg,0,1,test
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_41-Copy_jpeg.rf.58042bb1462d3f09371ebf6ec19eca08.jpg,Foot,Diseased Foot,FMD-Knuckles-_41-Copy_jpeg.rf.58042bb1462d3f09371ebf6ec19eca08.jpg,.jpg,1,1,test
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD_027_jpg.rf.f1613382dba4091ca3b802f9269c8fed - Copy.jpg,Foot,Diseased Foot,FMD_027_jpg.rf.f1613382dba4091ca3b802f9269c8fed - Copy.jpg,.jpg,1,1,test
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\pigf 10d-4WM-1.jpg,Foot,Diseased Foot,pigf 10d-4WM-1.jpg,.jpg,1,1,test
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_13.jpg,Foot,Normal Foot,augmented_fmdf_13.jpg,.jpg,0,1,test
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_33-Copy_jpeg.rf.f8bc77dfb4b224463f72b89763e2d9bc.jpg,Foot,Diseased Foot,FMD-Knuckles-_33-Copy_jpeg.rf.f8bc77dfb4b224463f72b89763e2d9bc.jpg,.jpg,1,1,test
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_9.jpg,Foot,Normal Foot,augmented_fmdf_9.jpg,.jpg,0,1,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\cf 3-4d-1WM-1.jpg,Foot,Diseased Foot,cf 3-4d-1WM-1.jpg,.jpg,1,1,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\kaki_18h.jpeg,Foot,Normal Foot,kaki_18h.jpeg,.jpeg,0,1,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\pigf 10d-4WM-1.jpg,Foot,Diseased Foot,pigf 10d-4WM-1.jpg,.jpg,1,1,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_1.jpg,Foot,Normal Foot,augmented_fmdf_1.jpg,.jpg,0,1,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Diseased foot 17.jpg,Foot,Diseased Foot,Diseased foot 17.jpg,.jpg,1,1,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Lumpy_Skin_186.png,Foot,Diseased Foot,Lumpy_Skin_186.png,.png,1,1,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\kaki_21h.jpeg,Foot,Normal Foot,kaki_21h.jpeg,.jpeg,0,1,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Diseased foot 2.jpg,Foot,Diseased Foot,Diseased foot 2.jpg,.jpg,1,1,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\cf_2-3d-2WM-1.jpg,Foot,Diseased Foot,cf_2-3d-2WM-1.jpg,.jpg,1,1,val
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Diseased-foot-20_jpg.rf.0fd4a82a468532ed5ba3e031d83cbee7.jpg,Foot,Diseased Foot,Diseased-foot-20_jpg.rf.0fd4a82a468532ed5ba3e031d83cbee7.jpg,.jpg,1,1,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\kaki_2h.jpg,Foot,Normal Foot,kaki_2h.jpg,.jpg,0,1,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_12.jpg,Foot,Normal Foot,augmented_fmdf_12.jpg,.jpg,0,1,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\pigf 10d-1WM-1.jpg,Foot,Diseased Foot,pigf 10d-1WM-1.jpg,.jpg,1,1,test
 c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_144-Copy_jpeg.rf.8731ac1b8203c1084e09c96c25724cce.jpg,Foot,Diseased Foot,FMD-Knuckles-_144-Copy_jpeg.rf.8731ac1b8203c1084e09c96c25724cce.jpg,.jpg,1,1,test
-c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_155_jpeg.rf.09c767669dfde6e4d89320485ad147a4.jpg,Foot,Diseased Foot,FMD-Knuckles-_155_jpeg.rf.09c767669dfde6e4d89320485ad147a4.jpg,.jpg,1,1,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_7.jpg,Foot,Normal Foot,augmented_fmdf_7.jpg,.jpg,0,1,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD_041_jpg.rf.b541132b95a8f052457bd5725e3463b6.jpg,Foot,Diseased Foot,FMD_041_jpg.rf.b541132b95a8f052457bd5725e3463b6.jpg,.jpg,1,1,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_183_jpeg.rf.8716e58777da89cb517b31e275868c1a.jpg,Foot,Diseased Foot,FMD-Knuckles-_183_jpeg.rf.8716e58777da89cb517b31e275868c1a.jpg,.jpg,1,1,test
+"c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\2 day vesicle, steer, foot.jpg",Foot,Diseased Foot,"2 day vesicle, steer, foot.jpg",.jpg,1,1,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_54-Copy_jpeg.rf.99ae59840ac60a16331a3077ed782973.jpg,Foot,Diseased Foot,FMD-Knuckles-_54-Copy_jpeg.rf.99ae59840ac60a16331a3077ed782973.jpg,.jpg,1,1,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_10.jpg,Foot,Normal Foot,augmented_fmdf_10.jpg,.jpg,0,1,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Diseased-foot-13_jpg.rf.a7a1c706c7128a6a1c532e5511162df4.jpg,Foot,Diseased Foot,Diseased-foot-13_jpg.rf.a7a1c706c7128a6a1c532e5511162df4.jpg,.jpg,1,1,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_34-Copy_jpeg.rf.fd915204062efe9e9bb9bff61a1ad1bb.jpg,Foot,Diseased Foot,FMD-Knuckles-_34-Copy_jpeg.rf.fd915204062efe9e9bb9bff61a1ad1bb.jpg,.jpg,1,1,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\8386722892_1faa1e77fd_bWM-1.jpg,Foot,Diseased Foot,8386722892_1faa1e77fd_bWM-1.jpg,.jpg,1,1,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\Non-diseased hoof 5.jpg,Foot,Normal Foot,Non-diseased hoof 5.jpg,.jpg,0,1,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\Diseased-foot-18_jpg.rf.c49b89ed4c7d42b7ac5e2b324ba31270.jpg,Foot,Diseased Foot,Diseased-foot-18_jpg.rf.c49b89ed4c7d42b7ac5e2b324ba31270.jpg,.jpg,1,1,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_17.jpg,Foot,Normal Foot,augmented_fmdf_17.jpg,.jpg,0,1,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_1-Copy_jpeg.rf.a6c0b0bbd7efde45389b55a85282afe2.jpg,Foot,Diseased Foot,FMD-Knuckles-_1-Copy_jpeg.rf.a6c0b0bbd7efde45389b55a85282afe2.jpg,.jpg,1,1,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\15_jpg.rf.0c4dfb2ed31edae315b1272570e30e4f.jpg,Foot,Diseased Foot,15_jpg.rf.0c4dfb2ed31edae315b1272570e30e4f.jpg,.jpg,1,1,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_216_jpeg.rf.44394318bb06f66f542b3343bf79463c.jpg,Foot,Diseased Foot,FMD-Knuckles-_216_jpeg.rf.44394318bb06f66f542b3343bf79463c.jpg,.jpg,1,1,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\kaki_3h.jpg,Foot,Normal Foot,kaki_3h.jpg,.jpg,0,1,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD_005_jpg.rf.a607ab26c23a39659b417becbb86d144.jpg,Foot,Diseased Foot,FMD_005_jpg.rf.a607ab26c23a39659b417becbb86d144.jpg,.jpg,1,1,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Normal Foot\augmented_fmdf_9.jpg,Foot,Normal Foot,augmented_fmdf_9.jpg,.jpg,0,1,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_7-Copy_jpeg.rf.1df23e54b2e811276749502dc5d1ba9f.jpg,Foot,Diseased Foot,FMD-Knuckles-_7-Copy_jpeg.rf.1df23e54b2e811276749502dc5d1ba9f.jpg,.jpg,1,1,test
+c:\Users\ezzyo\OneDrive\Desktop\Machine_learning\Dataset\Foot\Diseased Foot\FMD-Knuckles-_204_jpeg.rf.53149a77f660ee57b801821985b56070.jpg,Foot,Diseased Foot,FMD-Knuckles-_204_jpeg.rf.53149a77f660ee57b801821985b56070.jpg,.jpg,1,1,test
